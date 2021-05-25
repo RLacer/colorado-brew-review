@@ -1,5 +1,5 @@
 const seedBrew = require('./brew-seeds');
-const seedUser = require('./user-seeds');
+
 const seedReview = require('./review-seeds');
 
 
@@ -9,14 +9,12 @@ const seedAll = async () => {
   await sequelize.sync({ force: true });
   console.log('\n----- DATABASE SYNCED -----\n');
   await seedBrew();
-  console.log('\n----- CATEGORIES SEEDED -----\n');
+  console.log('\n----- Brew SEEDED -----\n');
 
   await seedReview();
-  console.log('\n----- PRODUCTS SEEDED -----\n');
+  console.log('\n----- review SEEDED -----\n');
 
-  await seedUser();
-  console.log('\n----- TAGS SEEDED -----\n');
-
+ 
   
 
   process.exit(0);
