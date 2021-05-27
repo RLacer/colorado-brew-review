@@ -1,14 +1,25 @@
 const express = require('express');
 const sequelize = require('./config/connection');
+const session = require('express-session');
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 const routes = require('./routes');
+const exphbs = require('express-handlebars');
+const path = require('path');
+
+
 // import sequelize connection
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3002;
 
 
-const hbs = exphbs.create({ helpers });
+const hbs = exphbs.create({ 
+  helpers: {
+    format_date: date => {
+      return `${date.getMonth() + 1}/${date.getDate()}/${date.getFullYear()}`;
+    }
+  } 
+});
 
 const sess = {
   secret: 'Super secret secret',
