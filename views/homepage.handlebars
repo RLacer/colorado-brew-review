@@ -5,7 +5,7 @@
     <h2>
       <!-- Call helper function with triple brackets to render the emoji span as HTML -->
       {{{get_emoji}}}
-      <a href="/review/{{review.id}}">{{review.name}}</a>
+      <a href="/review/{{review.id}}">{{review.username}}</a>
     </h2>
     <p>
       <span for="img" aria-label="smile">😉</span>
@@ -13,8 +13,8 @@
       <span class="dollar-amount">{{format_amount project.needed_funding}}</span>
       needed!
     </p>
-    <p>Created by {{review.user.name}} on {{format_date project.date_created}}</p>
-      <p>For {{review.brew.name}} in {{review.city.name}}</p>
+    <p>Created by {{review.username}} on {{format_date project.date_created}}</p>
+      <p>For {{review.brew_name}} in {{review.city.}}</p>
   </div>
   <div class="col-md-7">
     <p>

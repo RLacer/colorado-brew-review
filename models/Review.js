@@ -15,20 +15,20 @@ Review.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
-    city: {
-      type: DataTypes.STRING,
-      allowNull: true,
-    },
+    // city: {
+    //   type: DataTypes.STRING,
+    //   allowNull: true,
+    // },
     description: {
       type: DataTypes.STRING,
     },
-      user_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: 'user',
-        key: 'id',
-      },
-    },
+    //   user_id: {
+    //   type: DataTypes.INTEGER,
+    //   references: {
+    //     model: 'user',
+    //     key: 'id',
+    //   },
+    // },
 
   },
   {

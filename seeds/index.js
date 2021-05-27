@@ -1,23 +1,34 @@
-const seedBrew = require('./brew-seeds');
-
-const seedReview = require('./review-seeds');
-
-
 const sequelize = require('../config/connection');
+const { User, Brew, Review } = require('../models');
 
-const seedAll = async () => {
+const userData = require('./userData.json');
+const review = require('./review-seeds.json');
+
+const brew = require('./brew-seeds.json');
+
+const seedDatabase = async () => {
   await sequelize.sync({ force: true });
-  console.log('\n----- DATABASE SYNCED -----\n');
-  await seedBrew();
-  console.log('\n----- Brew SEEDED -----\n');
 
-  await seedReview();
-  console.log('\n----- review SEEDED -----\n');
+  const users = await User.bulkCreate(userData, {
+    individualHooks: true,
+    returning: true,
+  });
 
- 
-  
+  for (const review of Review) {
+    await Review.create({
+      ...review,
+   
+    });
+  };
+
+  for (const brew of Brew) {
+    await Brew.create({
+      ...brew,
+   
+    });
+  }
 
   process.exit(0);
 };
 
-seedAll();
+seedDatabase();

@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-auto">
-    <h2>Welcome, {{name}}!</h2>
+    <h2>Welcome, {{username}}!</h2>
   </div>
 </div>
 
@@ -16,7 +16,7 @@
    
       <div class="form-group">
         <label for="project-desc">comments/review</label>
-        <textarea class="form-input" id="project-desc" name="review-desc"></textarea>
+        <textarea class="form-input" id="review-desc" name="review-desc"></textarea>
       </div>
       <div class="form-group">
         <button type="submit" class="btn btn-primary">Create</button>
@@ -31,7 +31,7 @@
     {{#each reviews as |review|}}
     <div class="row mb-2">
       <div class="col-md-8">
-        <h4><a href="/project/{{review.id}}">{{review.name}}</a></h4>
+        <h4><a href="/project/{{review.id}}">{{review.username}}</a></h4>
       </div>
       <div class="col-md-4">
         <button class="btn btn-sm btn-danger" data-id="{{project.id}}">DELETE</button>
