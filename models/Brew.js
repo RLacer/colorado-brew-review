@@ -11,7 +11,7 @@ Brew.init(
 			primaryKey: true,
 			autoIncrement: true,
 		},
-		name: {
+		brewery_name: {
 			type: DataTypes.STRING,
 			allowNull: true,
 		},

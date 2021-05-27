@@ -1,14 +1,14 @@
 const newFormHandler = async (event) => {
     event.preventDefault();
   
-    const name = document.querySelector('#brew-name').value.trim();
-    const needed_funding = document.querySelector('#project-funding').value.trim();
+    const brewery_name = document.querySelector('#brew-name').value.trim();
+   
     const description = document.querySelector('#brew-desc').value.trim();
   
-    if (name &&  description) {
+    if (brewery_name &&  description) {
       const response = await fetch(`/api/brew`, {
         method: 'POST',
-        body: JSON.stringify({ name, description }),
+        body: JSON.stringify({ brewery_name, description }),
         headers: {
           'Content-Type': 'application/json',
         },

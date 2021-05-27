@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "10 Barrel Brewing Co - Denver",
+    "brewery_name": "10 Barrel Brewing Co - Denver",
     "brewery_type": "large",
     "street": "2620 Walnut St",
     "city": "Denver",
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "name": "105 West Brewing Co",
+    "brewery_name": "105 West Brewing Co",
     "brewery_type": "micro",
     "street": "1043 Park St",
     "city": "Castle Rock",
@@ -26,7 +26,7 @@
   },
   {
     "id": 3,
-    "name": "12Degree Brewing",
+    "brewery_name": "12Degree Brewing",
     "brewery_type": "brewpub",
     "street": "820 Main St",
     "city": "Louisville",
@@ -39,7 +39,7 @@
   },
   {
     "id": 4,
-    "name": "14er Brewing Company",
+    "brewery_name": "14er Brewing Company",
     "brewery_type": "proprietor",
     "street": "2801 Walnut St",
     "city": "Denver",
@@ -52,7 +52,7 @@
   },
   {
     "id": 5,
-    "name": "3 Freaks Brewing Co",
+    "brewery_name": "3 Freaks Brewing Co",
     "brewery_type": "micro",
     "street": "7140 E County Line Rd",
     "city": "Highlands Ranch",
@@ -65,7 +65,7 @@
   },
   {
     "id": 6,
-    "name": "300 Suns Brewing Company",
+    "brewery_name": "300 Suns Brewing Company",
     "brewery_type": "brewpub",
     "street": "335 1st Ave Unit C",
     "city": "Longmont",
@@ -75,7 +75,7 @@
   },
   {
     "id": 7,
-    "name": "38 State Brewing",
+    "brewery_name": "38 State Brewing",
     "brewery_type": "micro",
     "street": "8071 S Broadway Ste A",
     "city": "Littleton",
@@ -86,7 +86,7 @@
   },
   {
     "id": 8,
-    "name": "4 Noses Brewing Company",
+    "brewery_name": "4 Noses Brewing Company",
     "brewery_type": "micro",
     "street": "8855 W 116th Cir Ste 3",
     "city": "Broomfield",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "name": "4B's Brewery",
+    "brewery_name": "4B's Brewery",
     "brewery_type": "brewpub",
     "street": "215 W Main St",
     "city": "Cedaredge",
@@ -110,7 +110,7 @@
   },
   {
     "id": 10,
-    "name": "7 Hermits Brewing Company",
+    "brewery_name": "7 Hermits Brewing Company",
     "brewery_type": "brewpub",
     "street": "PO Box 3186",
     "city": "Eagle",
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "name": "Acidulous Brewing Company",
+    "brewery_name": "Acidulous Brewing Company",
     "brewery_type": "contract",
     "street": "6712 S Independence St",
     "city": "Littleton",
@@ -133,7 +133,7 @@
   },
   {
     "id": 12,
-    "name": "Alpine Dog Brewing Co",
+    "brewery_name": "Alpine Dog Brewing Co",
     "brewery_type": "micro",
     "street": "1505 N Ogden St",
     "city": "Denver",
@@ -144,7 +144,7 @@
   },
   {
     "id": 13,
-    "name": "Alternation Brewing Company",
+    "brewery_name": "Alternation Brewing Company",
     "brewery_type": "micro",
     "street": "1539 S Broadway",
     "city": "Denver",
@@ -157,7 +157,7 @@
   },
   {
     "id": 14,
-    "name": "Amalgam Brewing",
+    "brewery_name": "Amalgam Brewing",
     "brewery_type": "proprietor",
     "street": "6381 Beach St Unit A",
     "city": "Denver",
@@ -167,7 +167,7 @@
   },
   {
     "id": 15,
-    "name": "Angry James Brewing Co",
+    "brewery_name": "Angry James Brewing Co",
     "brewery_type": "micro",
     "street": "421 Adams Ave",
     "city": "Silverthorne",
@@ -180,7 +180,7 @@
   },
   {
     "id": 16,
-    "name": "Anheuser-Busch Inc - Fort Collins",
+    "brewery_name": "Anheuser-Busch Inc - Fort Collins",
     "brewery_type": "large",
     "street": "2351 Busch Dr",
     "city": "Fort Collins",
@@ -192,7 +192,7 @@
   },
   {
     "id": 17,
-    "name": "Animas Brewing Co",
+    "brewery_name": "Animas Brewing Co",
     "brewery_type": "brewpub",
     "street": "1560 E 2nd Ave",
     "city": "Durango",
@@ -205,7 +205,7 @@
   },
   {
     "id": 18,
-    "name": "Asher Brewing Co",
+    "brewery_name": "Asher Brewing Co",
     "brewery_type": "micro",
     "street": "4699 Nautilus Ct S Ste 104",
     "city": "Boulder",
@@ -216,7 +216,7 @@
   },
   {
     "id": 19,
-    "name": "Aspen Brewing Company",
+    "brewery_name": "Aspen Brewing Company",
     "brewery_type": "micro",
     "street": "404 Aspen Airport Business Ctr",
     "city": "Aspen",
@@ -229,7 +229,7 @@
   },
   {
     "id": 20,
-    "name": "Atom Brewing Company",
+    "brewery_name": "Atom Brewing Company",
     "brewery_type": "micro",
     "street": "654 Moffat St",
     "city": "Erie",
@@ -242,7 +242,7 @@
   },
   {
     "id": 21,
-    "name": "Atrevida Beer Company",
+    "brewery_name": "Atrevida Beer Company",
     "brewery_type": "micro",
     "street": "204 Mount View Ln Unit 3",
     "city": "Colorado Springs",
@@ -253,7 +253,7 @@
   },
   {
     "id": 22,
-    "name": "Avalanche Brewing Co",
+    "brewery_name": "Avalanche Brewing Co",
     "brewery_type": "brewpub",
     "street": "1067 Blair St",
     "city": "Silverton",
@@ -266,7 +266,7 @@
   },
   {
     "id": 23,
-    "name": "Avery Brewing Co",
+    "brewery_name": "Avery Brewing Co",
     "brewery_type": "regional",
     "street": "4910 Nautilus Ct N",
     "city": "Boulder",
@@ -277,7 +277,7 @@
   },
   {
     "id": 24,
-    "name": "Baere Brewing Company",
+    "brewery_name": "Baere Brewing Company",
     "brewery_type": "micro",
     "street": "320 Broadway, Unit E",
     "city": "Denver",
@@ -288,7 +288,7 @@
   },
   {
     "id": 25,
-    "name": "Banded Oak Brewing Company",
+    "brewery_name": "Banded Oak Brewing Company",
     "brewery_type": "brewpub",
     "street": "470 N Broadway",
     "city": "Denver",
@@ -301,7 +301,7 @@
   },
   {
     "id": 26,
-    "name": "Barnett and Son Brewing Company",
+    "brewery_name": "Barnett and Son Brewing Company",
     "brewery_type": "micro",
     "street": "18425 Pony Express Dr Unit 125",
     "city": "Parker",
@@ -311,7 +311,7 @@
   },
   {
     "id": 27,
-    "name": "Barrel Dog Brewing",
+    "brewery_name": "Barrel Dog Brewing",
     "brewery_type": "micro",
     "city": "Evergreen",
     "state": "Colorado",
@@ -322,7 +322,7 @@
   },
   {
     "id": 28,
-    "name": "Barrels & Bottles Brewery",
+    "brewery_name": "Barrels & Bottles Brewery",
     "brewery_type": "brewpub",
     "street": "600 12th St Ste 160",
     "city": "Golden",
@@ -335,7 +335,7 @@
   },
   {
     "id": 29,
-    "name": "Beer By Design Brewery",
+    "brewery_name": "Beer By Design Brewery",
     "brewery_type": "contract",
     "street": "11490 Jackson St",
     "city": "Thornton",
@@ -348,7 +348,7 @@
   },
   {
     "id": 30,
-    "name": "Berthoud Brewing Company",
+    "brewery_name": "Berthoud Brewing Company",
     "brewery_type": "micro",
     "street": "450 S 8th St Unit B",
     "city": "Berthoud",
@@ -359,7 +359,7 @@
   },
   {
     "id": 31,
-    "name": "Beyond The Mountain Brewing Company",
+    "brewery_name": "Beyond The Mountain Brewing Company",
     "brewery_type": "micro",
     "street": "6035 Longbow Dr Unit 109",
     "city": "Boulder",
@@ -370,7 +370,7 @@
   },
   {
     "id": 32,
-    "name": "Bierstadt Lagerhaus",
+    "brewery_name": "Bierstadt Lagerhaus",
     "brewery_type": "brewpub",
     "street": "2875 Blake St",
     "city": "Denver",
@@ -383,7 +383,7 @@
   },
   {
     "id": 33,
-    "name": "BierWerks",
+    "brewery_name": "BierWerks",
     "brewery_type": "brewpub",
     "street": "121 E. Midland Ave",
     "city": "Woodland Park",
@@ -396,7 +396,7 @@
   },
   {
     "id": 34,
-    "name": "Big Beaver Brewing Co",
+    "brewery_name": "Big Beaver Brewing Co",
     "brewery_type": "micro",
     "street": "2707 W Eisenhower Blvd Ste 9",
     "city": "Loveland",
@@ -407,7 +407,7 @@
   },
   {
     "id": 35,
-    "name": "Big Choice Brewing Co",
+    "brewery_name": "Big Choice Brewing Co",
     "brewery_type": "micro",
     "street": "21 S 1st Ave",
     "city": "Brighton",
@@ -420,7 +420,7 @@
   },
   {
     "id": 36,
-    "name": "Big Thompson Brewery",
+    "brewery_name": "Big Thompson Brewery",
     "brewery_type": "micro",
     "street": "114 E 15th St",
     "city": "Loveland",
@@ -431,7 +431,7 @@
   },
   {
     "id": 37,
-    "name": "BJs Restaurant & Brewery - Boulder",
+    "brewery_name": "BJs Restaurant & Brewery - Boulder",
     "brewery_type": "brewpub",
     "street": "1690 28th St",
     "city": "Boulder",
@@ -444,7 +444,7 @@
   },
   {
     "id": 38,
-    "name": "Black Bottle Brewery",
+    "brewery_name": "Black Bottle Brewery",
     "brewery_type": "brewpub",
     "street": "1611 S College Ave Ste STE1609",
     "city": "Fort Collins",
@@ -455,7 +455,7 @@
   },
   {
     "id": 39,
-    "name": "Black Forest Brewing Company",
+    "brewery_name": "Black Forest Brewing Company",
     "brewery_type": "brewpub",
     "street": "11590 Black Forest Rd Ste 50",
     "city": "Colorado Springs",
@@ -466,7 +466,7 @@
   },
   {
     "id": 40,
-    "name": "Black Project Spontaneous & Wild Ales",
+    "brewery_name": "Black Project Spontaneous & Wild Ales",
     "brewery_type": "micro",
     "street": "1290 S Broadway",
     "city": "Denver",
@@ -479,7 +479,7 @@
   },
   {
     "id": 41,
-    "name": "Black Shirt Brewing Co",
+    "brewery_name": "Black Shirt Brewing Co",
     "brewery_type": "brewpub",
     "street": "3719 Walnut St",
     "city": "Denver",
@@ -492,7 +492,7 @@
   },
   {
     "id": 42,
-    "name": "Black Sky Brewery",
+    "brewery_name": "Black Sky Brewery",
     "brewery_type": "brewpub",
     "street": "490 Santa Fe Dr",
     "city": "Denver",
@@ -505,7 +505,7 @@
   },
   {
     "id": 43,
-    "name": "Blue Moon Brewery",
+    "brewery_name": "Blue Moon Brewery",
     "brewery_type": "large",
     "street": "3750 Chestnut Pl",
     "city": "Denver",
@@ -516,7 +516,7 @@
   },
   {
     "id": 44,
-    "name": "Blue Spruce Brewing",
+    "brewery_name": "Blue Spruce Brewing",
     "brewery_type": "brewpub",
     "street": "4151 E County Line Rd Unit G",
     "city": "Centennial",
@@ -527,7 +527,7 @@
   },
   {
     "id": 45,
-    "name": "Blue Spruce Brewing Littleton",
+    "brewery_name": "Blue Spruce Brewing Littleton",
     "brewery_type": "brewpub",
     "street": "10577 W Centennial Rd",
     "city": "Littleton",
@@ -537,7 +537,7 @@
   },
   {
     "id": 46,
-    "name": "Boggy Draw Brewery",
+    "brewery_name": "Boggy Draw Brewery",
     "brewery_type": "micro",
     "street": "3535 S Platte River Dr Ste L",
     "city": "Sheridan",
@@ -548,7 +548,7 @@
   },
   {
     "id": 47,
-    "name": "Bonfire Brewing",
+    "brewery_name": "Bonfire Brewing",
     "brewery_type": "micro",
     "street": "127 W 2nd St",
     "city": "Eagle",
@@ -561,7 +561,7 @@
   },
   {
     "id": 48,
-    "name": "Bonfire Brewing Production",
+    "brewery_name": "Bonfire Brewing Production",
     "brewery_type": "micro",
     "street": "936 Chambers Ct. B-4",
     "city": "Eagle",
@@ -571,7 +571,7 @@
   },
   {
     "id": 49,
-    "name": "Bootstrap Brewing Co",
+    "brewery_name": "Bootstrap Brewing Co",
     "brewery_type": "micro",
     "street": "6778 N 79th St",
     "city": "Niwot",
@@ -584,7 +584,7 @@
   },
   {
     "id": 50,
-    "name": "Bootstrap Brewing",
+    "brewery_name": "Bootstrap Brewing",
     "brewery_type": "micro",
     "street": "142 Pratt St",
     "city": "Longmont",
@@ -596,7 +596,7 @@
   },
   {
     "id": 51,
-    "name": "Bottom Shelf Brewery",
+    "brewery_name": "Bottom Shelf Brewery",
     "brewery_type": "brewpub",
     "street": "118 E Mill St",
     "city": "Bayfield",
@@ -609,7 +609,7 @@
   },
   {
     "id": 52,
-    "name": "Boulder Beer Co",
+    "brewery_name": "Boulder Beer Co",
     "brewery_type": "regional",
     "street": "2880 Wilderness Pl",
     "city": "Boulder",
@@ -620,7 +620,7 @@
   },
   {
     "id": 53,
-    "name": "Boulder Beer On Walnut",
+    "brewery_name": "Boulder Beer On Walnut",
     "brewery_type": "brewpub",
     "street": "1123 Walnut St",
     "city": "Boulder",
@@ -632,7 +632,7 @@
   },
   {
     "id": 54,
-    "name": "Brass Brewing Company",
+    "brewery_name": "Brass Brewing Company",
     "brewery_type": "micro",
     "street": "318 E Colorado Ave",
     "city": "Colorado Springs",
@@ -643,7 +643,7 @@
   },
   {
     "id": 55,
-    "name": "Breckenridge Brewery",
+    "brewery_name": "Breckenridge Brewery",
     "brewery_type": "large",
     "street": "2920 Brewery Ln",
     "city": "Littleton",
@@ -654,7 +654,7 @@
   },
   {
     "id": 56,
-    "name": "Breckenridge Brewery & Pub",
+    "brewery_name": "Breckenridge Brewery & Pub",
     "brewery_type": "large",
     "street": "600 S Main St",
     "city": "Breckenridge",
@@ -667,7 +667,7 @@
   },
   {
     "id": 57,
-    "name": "Brew Pub and Kitchen",
+    "brewery_name": "Brew Pub and Kitchen",
     "brewery_type": "brewpub",
     "street": "117 W College Dr",
     "city": "Durango",
@@ -680,7 +680,7 @@
   },
   {
     "id": 58,
-    "name": "Brewability Lab",
+    "brewery_name": "Brewability Lab",
     "brewery_type": "micro",
     "street": "12445 E 39th Ave Unit 314",
     "city": "Denver",
@@ -691,7 +691,7 @@
   },
   {
     "id": 59,
-    "name": "Brewery Rickoli",
+    "brewery_name": "Brewery Rickoli",
     "brewery_type": "micro",
     "street": "4335 Wadsworth Blvd",
     "city": "Wheat Ridge",
@@ -704,7 +704,7 @@
   },
   {
     "id": 60,
-    "name": "Brewmented",
+    "brewery_name": "Brewmented",
     "brewery_type": "micro",
     "street": "900 S Hover St Ste C",
     "city": "Longmont",
@@ -715,7 +715,7 @@
   },
   {
     "id": 61,
-    "name": "Briar Common Brewery",
+    "brewery_name": "Briar Common Brewery",
     "brewery_type": "brewpub",
     "street": "2298 N Clay St",
     "city": "Denver",
@@ -726,7 +726,7 @@
   },
   {
     "id": 62,
-    "name": "Bristol Brewing Co",
+    "brewery_name": "Bristol Brewing Co",
     "brewery_type": "micro",
     "street": "1604 S Cascade Ave",
     "city": "Colorado Springs",
@@ -739,7 +739,7 @@
   },
   {
     "id": 63,
-    "name": "Brix Taphouse and Brewery",
+    "brewery_name": "Brix Taphouse and Brewery",
     "brewery_type": "brewpub",
     "street": "813 8th St",
     "city": "Greeley",
@@ -752,7 +752,7 @@
   },
   {
     "id": 64,
-    "name": "Broken Compass Brewing",
+    "brewery_name": "Broken Compass Brewing",
     "brewery_type": "micro",
     "street": "68 Continental Ct Unit B-12",
     "city": "Breckenridge",
@@ -763,7 +763,7 @@
   },
   {
     "id": 65,
-    "name": "Broken Plow Brewery",
+    "brewery_name": "Broken Plow Brewery",
     "brewery_type": "micro",
     "street": "4731 W 10th St Unit G",
     "city": "Greeley",
@@ -774,7 +774,7 @@
   },
   {
     "id": 66,
-    "name": "BRU Handbuilt Ales and Eats",
+    "brewery_name": "BRU Handbuilt Ales and Eats",
     "brewery_type": "brewpub",
     "street": "5290 Arapahoe Ave",
     "city": "Boulder",
@@ -787,7 +787,7 @@
   },
   {
     "id": 67,
-    "name": "Brues Alehouse Brewing Company",
+    "brewery_name": "Brues Alehouse Brewing Company",
     "brewery_type": "brewpub",
     "street": "120 Riverwalk Place",
     "city": "Pueblo",
@@ -798,7 +798,7 @@
   },
   {
     "id": 68,
-    "name": "Bruz Beers",
+    "brewery_name": "Bruz Beers",
     "brewery_type": "micro",
     "street": "1675 W 67th Ave Ste 100",
     "city": "Denver",
@@ -809,7 +809,7 @@
   },
   {
     "id": 69,
-    "name": "Buckhorn Brewers LLC",
+    "brewery_name": "Buckhorn Brewers LLC",
     "brewery_type": "micro",
     "street": "4229 W Eisenhower Blvd",
     "city": "Loveland",
@@ -821,7 +821,7 @@
   },
   {
     "id": 70,
-    "name": "Bull & Bush Brewery",
+    "brewery_name": "Bull & Bush Brewery",
     "brewery_type": "brewpub",
     "street": "4700 E Cherry Creek South Dr",
     "city": "Denver",
@@ -834,7 +834,7 @@
   },
   {
     "id": 71,
-    "name": "Burgundian Brewing Co.",
+    "brewery_name": "Burgundian Brewing Co.",
     "brewery_type": "micro",
     "street": "4725 Lipan St",
     "city": "Denver",
@@ -847,7 +847,7 @@
   },
   {
     "id": 72,
-    "name": "Burly Brewing Company, LLC",
+    "brewery_name": "Burly Brewing Company, LLC",
     "brewery_type": "micro",
     "street": "680 Atchison Way Ste 700-800",
     "city": "Castle Rock",
@@ -857,7 +857,7 @@
   },
   {
     "id": 73,
-    "name": "Butcherknife Brewing Company",
+    "brewery_name": "Butcherknife Brewing Company",
     "brewery_type": "micro",
     "street": "2875 Elk River Rd",
     "city": "Steamboat Springs",
@@ -870,7 +870,7 @@
   },
   {
     "id": 74,
-    "name": "C.B. and Potts/Big Horn Brewery - Englewood",
+    "brewery_name": "C.B. and Potts/Big Horn Brewery - Englewood",
     "brewery_type": "brewpub",
     "street": "6575 Greenwood Plaza Blvd",
     "city": "Englewood",
@@ -881,7 +881,7 @@
   },
   {
     "id": 75,
-    "name": "C.B. and Potts/Big Horn Brewery - Highlands Ranch",
+    "brewery_name": "C.B. and Potts/Big Horn Brewery - Highlands Ranch",
     "brewery_type": "brewpub",
     "street": "43 W Centennial Blvd",
     "city": "Highlands Ranch",
@@ -894,7 +894,7 @@
   },
   {
     "id": 76,
-    "name": "C.B. and Potts/Big Horn Brewery - Westminster",
+    "brewery_name": "C.B. and Potts/Big Horn Brewery - Westminster",
     "brewery_type": "brewpub",
     "street": "1257 W 120th Ave",
     "city": "Westminster",
@@ -907,7 +907,7 @@
   },
   {
     "id": 77,
-    "name": "Call To Arms Brewing Company",
+    "brewery_name": "Call To Arms Brewing Company",
     "brewery_type": "micro",
     "street": "4526 Tennyson St",
     "city": "Denver",
@@ -919,7 +919,7 @@
   },
   {
     "id": 78,
-    "name": "Cannonball Creek Brewing Co",
+    "brewery_name": "Cannonball Creek Brewing Co",
     "brewery_type": "micro",
     "street": "393 Washington Ave Unit A",
     "city": "Golden",
@@ -930,7 +930,7 @@
   },
   {
     "id": 79,
-    "name": "Capitol Creek Brewery",
+    "brewery_name": "Capitol Creek Brewery",
     "brewery_type": "brewpub",
     "street": "371 Market St",
     "city": "Basalt",
@@ -941,7 +941,7 @@
   },
   {
     "id": 80,
-    "name": "Carbondale Beer Works",
+    "brewery_name": "Carbondale Beer Works",
     "brewery_type": "brewpub",
     "street": "647 Main St",
     "city": "Carbondale",
@@ -953,7 +953,7 @@
   },
   {
     "id": 81,
-    "name": "Carver Brewing Co",
+    "brewery_name": "Carver Brewing Co",
     "brewery_type": "brewpub",
     "street": "1022 Main Ave",
     "city": "Durango",
@@ -966,7 +966,7 @@
   },
   {
     "id": 82,
-    "name": "Casey Brewing and Blending",
+    "brewery_name": "Casey Brewing and Blending",
     "brewery_type": "micro",
     "street": "3421 Grand Ave Ste 4D",
     "city": "Glenwood Springs",
@@ -977,7 +977,7 @@
   },
   {
     "id": 83,
-    "name": "Castle Rock Beer Company",
+    "brewery_name": "Castle Rock Beer Company",
     "brewery_type": "micro",
     "street": "514 Perry St Ste C106",
     "city": "Castle Rock",
@@ -988,7 +988,7 @@
   },
   {
     "id": 84,
-    "name": "Cellar West Artisan Ales",
+    "brewery_name": "Cellar West Artisan Ales",
     "brewery_type": "micro",
     "street": "1001 Lee Hill Dr Ste 10",
     "city": "Boulder",
@@ -999,7 +999,7 @@
   },
   {
     "id": 85,
-    "name": "Cerberus Brewing Company",
+    "brewery_name": "Cerberus Brewing Company",
     "brewery_type": "brewpub",
     "street": "702 W Colorado Ave",
     "city": "Colorado Springs",
@@ -1012,7 +1012,7 @@
   },
   {
     "id": 86,
-    "name": "Cerebral Brewing",
+    "brewery_name": "Cerebral Brewing",
     "brewery_type": "micro",
     "street": "1477 Monroe St",
     "city": "Denver",
@@ -1025,7 +1025,7 @@
   },
   {
     "id": 87,
-    "name": "Chain Reaction Brewing Company",
+    "brewery_name": "Chain Reaction Brewing Company",
     "brewery_type": "micro",
     "street": "902 S Lipan St",
     "city": "Denver",
@@ -1038,7 +1038,7 @@
   },
   {
     "id": 88,
-    "name": "Cheluna Brewing Company",
+    "brewery_name": "Cheluna Brewing Company",
     "brewery_type": "micro",
     "street": "2501 Dallas St Unit 148",
     "city": "Aurora",
@@ -1049,7 +1049,7 @@
   },
   {
     "id": 89,
-    "name": "ChopHouse and Brewery - Denver",
+    "brewery_name": "ChopHouse and Brewery - Denver",
     "brewery_type": "brewpub",
     "street": "1735 19th St Ste 100",
     "city": "Denver",
@@ -1060,7 +1060,7 @@
   },
   {
     "id": 90,
-    "name": "City Star Brewing",
+    "brewery_name": "City Star Brewing",
     "brewery_type": "micro",
     "street": "321 Mountain Avenue",
     "city": "Berthoud",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": 91,
-    "name": "CO-Brew",
+    "brewery_name": "CO-Brew",
     "brewery_type": "micro",
     "street": "1133 N Broadway",
     "city": "Denver",
@@ -1084,7 +1084,7 @@
   },
   {
     "id": 92,
-    "name": "Coal Mine Ave Brewing Company",
+    "brewery_name": "Coal Mine Ave Brewing Company",
     "brewery_type": "micro",
     "street": "9719 W Coal Mine Ave Unit A",
     "city": "Littleton",
@@ -1095,7 +1095,7 @@
   },
   {
     "id": 93,
-    "name": "Cogstone Brewing Co",
+    "brewery_name": "Cogstone Brewing Co",
     "brewery_type": "brewpub",
     "street": "3858 Village Seven Rd",
     "city": "Colorado Springs",
@@ -1108,7 +1108,7 @@
   },
   {
     "id": 94,
-    "name": "Colorado Boy Pizzeria",
+    "brewery_name": "Colorado Boy Pizzeria",
     "brewery_type": "brewpub",
     "street": "320 E Main St",
     "city": "Montrose",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 95,
-    "name": "Colorado Boy Pub & Brewery",
+    "brewery_name": "Colorado Boy Pub & Brewery",
     "brewery_type": "brewpub",
     "street": "602 Clinton St.",
     "city": "Ridgway",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": 96,
-    "name": "Colorado Farm Brewery",
+    "brewery_name": "Colorado Farm Brewery",
     "brewery_type": "micro",
     "street": "2070 County Road 12 S",
     "city": "Alamosa",
@@ -1147,7 +1147,7 @@
   },
   {
     "id": 97,
-    "name": "Colorado Mountain Brewery At the Roundhouse",
+    "brewery_name": "Colorado Mountain Brewery At the Roundhouse",
     "brewery_type": "brewpub",
     "street": "600 S 21st St Unit 180",
     "city": "Colorado Springs",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": 98,
-    "name": "Colorado Mountain Brewery",
+    "brewery_name": "Colorado Mountain Brewery",
     "brewery_type": "micro",
     "street": "1110 Interquest Pkwy",
     "city": "Colorado Springs",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 99,
-    "name": "Colorado Plus",
+    "brewery_name": "Colorado Plus",
     "brewery_type": "brewpub",
     "street": "6995 W 38th Ave",
     "city": "Wheat Ridge",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": 100,
-    "name": "Comrade Brewing Company",
+    "brewery_name": "Comrade Brewing Company",
     "brewery_type": "micro",
     "street": "7667 E Iliff Ave Ste F",
     "city": "Denver",
@@ -1195,7 +1195,7 @@
   },
   {
     "id": 101,
-    "name": "CooperSmiths Pub and Brewing",
+    "brewery_name": "CooperSmiths Pub and Brewing",
     "brewery_type": "brewpub",
     "street": "5 Old Town Sq",
     "city": "Fort Collins",
@@ -1208,7 +1208,7 @@
   },
   {
     "id": 102,
-    "name": "Copper Club Brewing Co",
+    "brewery_name": "Copper Club Brewing Co",
     "brewery_type": "micro",
     "street": "233 E Aspen Ave",
     "city": "Fruita",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 103,
-    "name": "Copper Kettle Brewing Company",
+    "brewery_name": "Copper Kettle Brewing Company",
     "brewery_type": "micro",
     "street": "1338 S Valentia St Ste 100",
     "city": "Denver",
@@ -1232,7 +1232,7 @@
   },
   {
     "id": 104,
-    "name": "Crabtree Brewing",
+    "brewery_name": "Crabtree Brewing",
     "brewery_type": "micro",
     "street": "2961 W 29th St",
     "city": "Greeley",
@@ -1245,7 +1245,7 @@
   },
   {
     "id": 105,
-    "name": "Crazy Mountain Brewing Co",
+    "brewery_name": "Crazy Mountain Brewing Co",
     "brewery_type": "regional",
     "street": "471 Kalamath St",
     "city": "Denver",
@@ -1258,7 +1258,7 @@
   },
   {
     "id": 106,
-    "name": "Crestone Brewing Company",
+    "brewery_name": "Crestone Brewing Company",
     "brewery_type": "brewpub",
     "street": "187 West Silver Ave.",
     "city": "Crestone",
@@ -1269,7 +1269,7 @@
   },
   {
     "id": 107,
-    "name": "Crooked Stave Artisan Beer Project",
+    "brewery_name": "Crooked Stave Artisan Beer Project",
     "brewery_type": "micro",
     "street": "1441 W 46th Ave Unit 17",
     "city": "Denver",
@@ -1280,7 +1280,7 @@
   },
   {
     "id": 108,
-    "name": "Crow Hop Brewing Co. Ltd.",
+    "brewery_name": "Crow Hop Brewing Co. Ltd.",
     "brewery_type": "micro",
     "street": "214 E 4th St",
     "city": "Loveland",
@@ -1293,7 +1293,7 @@
   },
   {
     "id": 109,
-    "name": "Crystal Springs Brewing Co",
+    "brewery_name": "Crystal Springs Brewing Co",
     "brewery_type": "micro",
     "street": "657 S Taylor Ave",
     "city": "Louisville",
@@ -1306,7 +1306,7 @@
   },
   {
     "id": 110,
-    "name": "D.C. Oakes Brewhouse and Eatery",
+    "brewery_name": "D.C. Oakes Brewhouse and Eatery",
     "brewery_type": "brewpub",
     "street": "3581 E Harmony Suite 110",
     "city": "Fort Collins",
@@ -1317,7 +1317,7 @@
   },
   {
     "id": 111,
-    "name": "Dad & Dudes Breweria",
+    "brewery_name": "Dad & Dudes Breweria",
     "brewery_type": "brewpub",
     "street": "6730 S Cornerstar Way Ste D",
     "city": "Aurora",
@@ -1328,7 +1328,7 @@
   },
   {
     "id": 112,
-    "name": "Dead Hippie Brewing",
+    "brewery_name": "Dead Hippie Brewing",
     "brewery_type": "micro",
     "street": "3701 S Santa Fe Dr Unit 7",
     "city": "Sheridan",
@@ -1339,7 +1339,7 @@
   },
   {
     "id": 113,
-    "name": "Dean and Co",
+    "brewery_name": "Dean and Co",
     "brewery_type": "micro",
     "street": "201 Grant St",
     "city": "La Junta",
@@ -1348,7 +1348,7 @@
   },
   {
     "id": 114,
-    "name": "Declaration Brewing Company",
+    "brewery_name": "Declaration Brewing Company",
     "brewery_type": "micro",
     "street": "2030 S Cherokee St",
     "city": "Denver",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 115,
-    "name": "Denver Beer Co Canworks",
+    "brewery_name": "Denver Beer Co Canworks",
     "brewery_type": "micro",
     "street": "4455 Jason St",
     "city": "Denver",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 116,
-    "name": "Denver Beer Co",
+    "brewery_name": "Denver Beer Co",
     "brewery_type": "micro",
     "street": "1695 Platte St",
     "city": "Denver",
@@ -1386,7 +1386,7 @@
   },
   {
     "id": 117,
-    "name": "Denver Beer Co Olde Town Arvada",
+    "brewery_name": "Denver Beer Co Olde Town Arvada",
     "brewery_type": "micro",
     "street": "5768 Olde Wadsworth Blvd",
     "city": "Arvada",
@@ -1397,7 +1397,7 @@
   },
   {
     "id": 118,
-    "name": "DeSteeg Brewing Co/Blind Faith Brewing",
+    "brewery_name": "DeSteeg Brewing Co/Blind Faith Brewing",
     "brewery_type": "micro",
     "street": "4342 Tennyson St",
     "city": "Denver",
@@ -1410,7 +1410,7 @@
   },
   {
     "id": 119,
-    "name": "Diebolt Brewing",
+    "brewery_name": "Diebolt Brewing",
     "brewery_type": "micro",
     "street": "3855 Mariposa St",
     "city": "Denver",
@@ -1423,7 +1423,7 @@
   },
   {
     "id": 120,
-    "name": "Dillon Dam Brewery",
+    "brewery_name": "Dillon Dam Brewery",
     "brewery_type": "brewpub",
     "street": "100 Little Dam Street",
     "city": "Dillon",
@@ -1436,7 +1436,7 @@
   },
   {
     "id": 121,
-    "name": "Dive Bar Brewing Company",
+    "brewery_name": "Dive Bar Brewing Company",
     "brewery_type": "proprietor",
     "street": "5994 S Holly Street #146",
     "city": "Greenwood Village",
@@ -1447,7 +1447,7 @@
   },
   {
     "id": 122,
-    "name": "Dolores River Brewery",
+    "brewery_name": "Dolores River Brewery",
     "brewery_type": "brewpub",
     "street": "100 S. 4th St.",
     "city": "Dolores",
@@ -1460,7 +1460,7 @@
   },
   {
     "id": 123,
-    "name": "Dos Luces Brewery",
+    "brewery_name": "Dos Luces Brewery",
     "brewery_type": "contract",
     "street": "1236 S Broadway",
     "city": "Denver",
@@ -1473,7 +1473,7 @@
   },
   {
     "id": 124,
-    "name": "Dostal Alley Brewing Co",
+    "brewery_name": "Dostal Alley Brewing Co",
     "brewery_type": "brewpub",
     "street": "116 Main St",
     "city": "Central City",
@@ -1486,7 +1486,7 @@
   },
   {
     "id": 125,
-    "name": "Downhill Brewing",
+    "brewery_name": "Downhill Brewing",
     "brewery_type": "micro",
     "street": "18921 Plaza Dr Ste 104",
     "city": "Parker",
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 126,
-    "name": "Dry Dock Brewing Co - North Dock",
+    "brewery_name": "Dry Dock Brewing Co - North Dock",
     "brewery_type": "regional",
     "street": "2801 Tower Rd",
     "city": "Aurora",
@@ -1510,7 +1510,7 @@
   },
   {
     "id": 127,
-    "name": "Dry Dock Brewing Co- South Dock",
+    "brewery_name": "Dry Dock Brewing Co- South Dock",
     "brewery_type": "micro",
     "street": "15120 E Hampden Ave",
     "city": "Aurora",
@@ -1523,7 +1523,7 @@
   },
   {
     "id": 128,
-    "name": "Dueces Wild Brewery",
+    "brewery_name": "Dueces Wild Brewery",
     "brewery_type": "micro",
     "street": "660 Peterson Rd",
     "city": "Colorado Springs",
@@ -1536,7 +1536,7 @@
   },
   {
     "id": 129,
-    "name": "Durango Brewing Co",
+    "brewery_name": "Durango Brewing Co",
     "brewery_type": "brewpub",
     "street": "3000 Main Ave",
     "city": "Durango",
@@ -1549,7 +1549,7 @@
   },
   {
     "id": 130,
-    "name": "Echo Brewing Cask and Barrel",
+    "brewery_name": "Echo Brewing Cask and Barrel",
     "brewery_type": "brewpub",
     "street": "600 Briggs St",
     "city": "Erie",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 131,
-    "name": "Echo Brewing Company",
+    "brewery_name": "Echo Brewing Company",
     "brewery_type": "brewpub",
     "street": "5969 Iris Pkwy",
     "city": "Frederick",
@@ -1572,7 +1572,7 @@
   },
   {
     "id": 132,
-    "name": "Eddyline Brewing LLC",
+    "brewery_name": "Eddyline Brewing LLC",
     "brewery_type": "micro",
     "street": "102 Linderman Ave",
     "city": "Buena Vista",
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 133,
-    "name": "Edgewater Brewery",
+    "brewery_name": "Edgewater Brewery",
     "brewery_type": "brewpub",
     "street": "905 Struthers Ave",
     "city": "Grand Junction",
@@ -1598,7 +1598,7 @@
   },
   {
     "id": 134,
-    "name": "El Rancho Brewing",
+    "brewery_name": "El Rancho Brewing",
     "brewery_type": "brewpub",
     "street": "29260 US Highway 40",
     "city": "Evergreen",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": 135,
-    "name": "Elevation Beer Company",
+    "brewery_name": "Elevation Beer Company",
     "brewery_type": "micro",
     "street": "115 Pahlone Pkwy",
     "city": "Poncha Springs",
@@ -1620,7 +1620,7 @@
   },
   {
     "id": 136,
-    "name": "Elk Avenue Brewing Company",
+    "brewery_name": "Elk Avenue Brewing Company",
     "brewery_type": "brewpub",
     "street": "215 Elk Avenue",
     "city": "Crested Butte",
@@ -1632,7 +1632,7 @@
   },
   {
     "id": 137,
-    "name": "Endo Brewing Company",
+    "brewery_name": "Endo Brewing Company",
     "brewery_type": "micro",
     "street": "2755 Dagny Way Ste 101",
     "city": "Lafayette",
@@ -1645,7 +1645,7 @@
   },
   {
     "id": 138,
-    "name": "Epic Brewing Co., LLC",
+    "brewery_name": "Epic Brewing Co., LLC",
     "brewery_type": "micro",
     "street": "3001 Walnut St",
     "city": "Denver",
@@ -1658,7 +1658,7 @@
   },
   {
     "id": 139,
-    "name": "Equinox Brewing",
+    "brewery_name": "Equinox Brewing",
     "brewery_type": "micro",
     "street": "133 Remington St",
     "city": "Fort Collins",
@@ -1671,7 +1671,7 @@
   },
   {
     "id": 140,
-    "name": "Estes Park Brewery",
+    "brewery_name": "Estes Park Brewery",
     "brewery_type": "micro",
     "street": "470 Prospect Village Dr",
     "city": "Estes Park",
@@ -1684,7 +1684,7 @@
   },
   {
     "id": 141,
-    "name": "Evergreen Brewery",
+    "brewery_name": "Evergreen Brewery",
     "brewery_type": "brewpub",
     "street": "2962 Evergreen Pkwy",
     "city": "Evergreen",
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 142,
-    "name": "Factotum Brewhouse",
+    "brewery_name": "Factotum Brewhouse",
     "brewery_type": "micro",
     "street": "3845 Lipan St",
     "city": "Denver",
@@ -1708,7 +1708,7 @@
   },
   {
     "id": 143,
-    "name": "FATE Brewing Company",
+    "brewery_name": "FATE Brewing Company",
     "brewery_type": "brewpub",
     "street": "1600 38th St Ste 100",
     "city": "Boulder",
@@ -1719,7 +1719,7 @@
   },
   {
     "id": 144,
-    "name": "Fermaentra",
+    "brewery_name": "Fermaentra",
     "brewery_type": "micro",
     "street": "1715 E Evans Ave",
     "city": "Denver",
@@ -1732,7 +1732,7 @@
   },
   {
     "id": 145,
-    "name": "FH Beerworks",
+    "brewery_name": "FH Beerworks",
     "brewery_type": "micro",
     "street": "521 S Tejon St",
     "city": "Colorado Springs",
@@ -1744,7 +1744,7 @@
   },
   {
     "id": 146,
-    "name": "Fiction Beer Company",
+    "brewery_name": "Fiction Beer Company",
     "brewery_type": "micro",
     "street": "7101 E Colfax Ave",
     "city": "Denver",
@@ -1757,7 +1757,7 @@
   },
   {
     "id": 147,
-    "name": "Finkel & Garf Brewing Co.",
+    "brewery_name": "Finkel & Garf Brewing Co.",
     "brewery_type": "micro",
     "street": "5455 Spine Rd Ste A",
     "city": "Boulder",
@@ -1767,7 +1767,7 @@
   },
   {
     "id": 148,
-    "name": "Floodstage Ale Works",
+    "brewery_name": "Floodstage Ale Works",
     "brewery_type": "brewpub",
     "street": "170 S Main St",
     "city": "Brighton",
@@ -1780,7 +1780,7 @@
   },
   {
     "id": 149,
-    "name": "Florence Brewing Company",
+    "brewery_name": "Florence Brewing Company",
     "brewery_type": "micro",
     "street": "200 S Pikes Peak Ave",
     "city": "Florence",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 150,
-    "name": "Fossil Craft Beer Co",
+    "brewery_name": "Fossil Craft Beer Co",
     "brewery_type": "micro",
     "street": "2845 Ore Mill Rd Ste 1",
     "city": "Colorado Springs",
@@ -1804,7 +1804,7 @@
   },
   {
     "id": 151,
-    "name": "Frolic Brewing Company",
+    "brewery_name": "Frolic Brewing Company",
     "brewery_type": "brewpub",
     "street": "12910 Zuni St Ste 1300",
     "city": "Westminster",
@@ -1814,7 +1814,7 @@
   },
   {
     "id": 152,
-    "name": "Front Range Brewing Co.",
+    "brewery_name": "Front Range Brewing Co.",
     "brewery_type": "brewpub",
     "street": "400 W South Boulder Rd Ste 1650",
     "city": "Lafayette",
@@ -1825,7 +1825,7 @@
   },
   {
     "id": 153,
-    "name": "Funkwerks",
+    "brewery_name": "Funkwerks",
     "brewery_type": "micro",
     "street": "1900 E Lincoln Ave Unit B",
     "city": "Fort Collins",
@@ -1836,7 +1836,7 @@
   },
   {
     "id": 154,
-    "name": "Gilded Goat Brewing Company",
+    "brewery_name": "Gilded Goat Brewing Company",
     "brewery_type": "micro",
     "street": "3500 S College Ave Ste 194",
     "city": "Fort Collins",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": 155,
-    "name": "Glenwood Canyon Brewing Co",
+    "brewery_name": "Glenwood Canyon Brewing Co",
     "brewery_type": "brewpub",
     "street": "402 7th St",
     "city": "Glenwood Springs",
@@ -1860,7 +1860,7 @@
   },
   {
     "id": 156,
-    "name": "Goat Patch Brewing Co.",
+    "brewery_name": "Goat Patch Brewing Co.",
     "brewery_type": "micro",
     "street": "2727 N Cascade Ave Ste 123",
     "city": "Colorado Springs",
@@ -1871,7 +1871,7 @@
   },
   {
     "id": 157,
-    "name": "Gold Camp Brewing Co",
+    "brewery_name": "Gold Camp Brewing Co",
     "brewery_type": "micro",
     "street": "1007 S Tejon St",
     "city": "Colorado Springs",
@@ -1883,7 +1883,7 @@
   },
   {
     "id": 158,
-    "name": "Golden Block Brewery",
+    "brewery_name": "Golden Block Brewery",
     "brewery_type": "brewpub",
     "street": "1227 Greene St",
     "city": "Silverton",
@@ -1896,7 +1896,7 @@
   },
   {
     "id": 159,
-    "name": "Golden City Brewery",
+    "brewery_name": "Golden City Brewery",
     "brewery_type": "brewpub",
     "street": "920 1/2 12th St",
     "city": "Golden",
@@ -1908,7 +1908,7 @@
   },
   {
     "id": 160,
-    "name": "Goldspot Brewing Co",
+    "brewery_name": "Goldspot Brewing Co",
     "brewery_type": "micro",
     "street": "4970 Lowell Blvd",
     "city": "Denver",
@@ -1921,7 +1921,7 @@
   },
   {
     "id": 161,
-    "name": "Good River Beer Company",
+    "brewery_name": "Good River Beer Company",
     "brewery_type": "contract",
     "street": "1790 S Bannock St.",
     "city": "Denver",
@@ -1934,7 +1934,7 @@
   },
   {
     "id": 162,
-    "name": "Gordon Biersch Brewery Restaurant - Broomfield",
+    "brewery_name": "Gordon Biersch Brewery Restaurant - Broomfield",
     "brewery_type": "brewpub",
     "street": "1 W Flatiron Crossing Dr Ste 428",
     "city": "Broomfield",
@@ -1945,7 +1945,7 @@
   },
   {
     "id": 163,
-    "name": "Gore Range Brewery",
+    "brewery_name": "Gore Range Brewery",
     "brewery_type": "brewpub",
     "street": "105 Edwards Village Blvd",
     "city": "Edwards",
@@ -1958,7 +1958,7 @@
   },
   {
     "id": 164,
-    "name": "Grand Adventure Brewing Company",
+    "brewery_name": "Grand Adventure Brewing Company",
     "brewery_type": "brewpub",
     "street": "207 Central Ave",
     "city": "Kremmling",
@@ -1971,7 +1971,7 @@
   },
   {
     "id": 165,
-    "name": "Grand Lake Brewing Co, The",
+    "brewery_name": "Grand Lake Brewing Co, The",
     "brewery_type": "brewpub",
     "street": "5610 Yukon St",
     "city": "Arvada",
@@ -1984,7 +1984,7 @@
   },
   {
     "id": 166,
-    "name": "Grandma's House",
+    "brewery_name": "Grandma's House",
     "brewery_type": "micro",
     "street": "1710 S Broadway",
     "city": "Denver",
@@ -1997,7 +1997,7 @@
   },
   {
     "id": 167,
-    "name": "Gravity Brewing",
+    "brewery_name": "Gravity Brewing",
     "brewery_type": "micro",
     "street": "1150 Pine St Unit B",
     "city": "Louisville",
@@ -2008,7 +2008,7 @@
   },
   {
     "id": 168,
-    "name": "Great Divide Brewing Co",
+    "brewery_name": "Great Divide Brewing Co",
     "brewery_type": "regional",
     "street": "2201 Arapahoe St",
     "city": "Denver",
@@ -2021,7 +2021,7 @@
   },
   {
     "id": 169,
-    "name": "Great Divide Brewing Co - RiNo Barrel Bar",
+    "brewery_name": "Great Divide Brewing Co - RiNo Barrel Bar",
     "brewery_type": "micro",
     "street": "1812 35th St",
     "city": "Denver",
@@ -2034,7 +2034,7 @@
   },
   {
     "id": 170,
-    "name": "Great Frontier Brewing Company",
+    "brewery_name": "Great Frontier Brewing Company",
     "brewery_type": "micro",
     "street": "2010 S Oak St",
     "city": "Lakewood",
@@ -2047,7 +2047,7 @@
   },
   {
     "id": 171,
-    "name": "Green Earth Brewing Company",
+    "brewery_name": "Green Earth Brewing Company",
     "brewery_type": "micro",
     "street": "725 10th St Unit A",
     "city": "Greeley",
@@ -2058,7 +2058,7 @@
   },
   {
     "id": 172,
-    "name": "Green Mountain Beer Company",
+    "brewery_name": "Green Mountain Beer Company",
     "brewery_type": "micro",
     "street": "2585 S Lewis Way Unit 110",
     "city": "Lakewood",
@@ -2069,7 +2069,7 @@
   },
   {
     "id": 173,
-    "name": "Grimm Brothers Brewhouse, LLC",
+    "brewery_name": "Grimm Brothers Brewhouse, LLC",
     "brewery_type": "micro",
     "street": "623 Denver Ave",
     "city": "Loveland",
@@ -2080,7 +2080,7 @@
   },
   {
     "id": 174,
-    "name": "Grist Brewing Company",
+    "brewery_name": "Grist Brewing Company",
     "brewery_type": "micro",
     "street": "9150 Commerce Center Cir Ste 300",
     "city": "Highlands Ranch",
@@ -2091,7 +2091,7 @@
   },
   {
     "id": 175,
-    "name": "Grist Brewing Company - Lone Tree",
+    "brewery_name": "Grist Brewing Company - Lone Tree",
     "brewery_type": "micro",
     "street": "9535 Park Meadows Dr Ste F",
     "city": "Lone Tree",
@@ -2101,7 +2101,7 @@
   },
   {
     "id": 176,
-    "name": "Grossen Bart Brewery",
+    "brewery_name": "Grossen Bart Brewery",
     "brewery_type": "micro",
     "street": "1025 Delaware Ave Unit A",
     "city": "Longmont",
@@ -2112,7 +2112,7 @@
   },
   {
     "id": 177,
-    "name": "Guanella Pass Brewing Company, LLC",
+    "brewery_name": "Guanella Pass Brewing Company, LLC",
     "brewery_type": "micro",
     "street": "501 Rose Street",
     "city": "Georgetown",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": 178,
-    "name": "Gunbarrel Brewing Company",
+    "brewery_name": "Gunbarrel Brewing Company",
     "brewery_type": "micro",
     "street": "7088 Winchester Cir Ste 2",
     "city": "Boulder",
@@ -2136,7 +2136,7 @@
   },
   {
     "id": 179,
-    "name": "Halfpenny Brewing Company",
+    "brewery_name": "Halfpenny Brewing Company",
     "brewery_type": "micro",
     "street": "5150 E Arapahoe Rd Ste D1-B",
     "city": "Centennial",
@@ -2147,7 +2147,7 @@
   },
   {
     "id": 180,
-    "name": "Hideaway Park Brewery",
+    "brewery_name": "Hideaway Park Brewery",
     "brewery_type": "micro",
     "street": "78927 US Highway 40",
     "city": "Winter Park",
@@ -2158,7 +2158,7 @@
   },
   {
     "id": 181,
-    "name": "High Alpine Brewing Company",
+    "brewery_name": "High Alpine Brewing Company",
     "brewery_type": "brewpub",
     "street": "111 N Main St",
     "city": "Gunnison",
@@ -2171,7 +2171,7 @@
   },
   {
     "id": 182,
-    "name": "High Hops Brewery",
+    "brewery_name": "High Hops Brewery",
     "brewery_type": "micro",
     "street": "6461 State Highway 392",
     "city": "Windsor",
@@ -2184,7 +2184,7 @@
   },
   {
     "id": 183,
-    "name": "HighSide Brewery",
+    "brewery_name": "HighSide Brewery",
     "brewery_type": "micro",
     "street": "720 Main St",
     "city": "Frisco",
@@ -2197,7 +2197,7 @@
   },
   {
     "id": 184,
-    "name": "Hogshead Brewery",
+    "brewery_name": "Hogshead Brewery",
     "brewery_type": "micro",
     "street": "4460 W 29th Ave",
     "city": "Denver",
@@ -2210,7 +2210,7 @@
   },
   {
     "id": 185,
-    "name": "Holidaily Brewing Co",
+    "brewery_name": "Holidaily Brewing Co",
     "brewery_type": "micro",
     "street": "801 Brickyard Cir Ste B",
     "city": "Golden",
@@ -2221,7 +2221,7 @@
   },
   {
     "id": 186,
-    "name": "Horse & Dragon Brewing Company",
+    "brewery_name": "Horse & Dragon Brewing Company",
     "brewery_type": "micro",
     "street": "124 Racquette Dr",
     "city": "Fort Collins",
@@ -2232,7 +2232,7 @@
   },
   {
     "id": 187,
-    "name": "Horsefly Brewing Co",
+    "brewery_name": "Horsefly Brewing Co",
     "brewery_type": "brewpub",
     "street": "846 E Main St",
     "city": "Montrose",
@@ -2245,7 +2245,7 @@
   },
   {
     "id": 188,
-    "name": "Idylwilde Brewing",
+    "brewery_name": "Idylwilde Brewing",
     "brewery_type": "micro",
     "street": "116 Fawn Dr",
     "city": "Carbondale",
@@ -2256,7 +2256,7 @@
   },
   {
     "id": 189,
-    "name": "Industrial Revolution Brewing Company",
+    "brewery_name": "Industrial Revolution Brewing Company",
     "brewery_type": "micro",
     "street": "285 Cheesman St",
     "city": "Erie",
@@ -2268,7 +2268,7 @@
   },
   {
     "id": 190,
-    "name": "Intersect Brewing",
+    "brewery_name": "Intersect Brewing",
     "brewery_type": "micro",
     "street": "2160 W Drake Rd Unit A1",
     "city": "Fort Collins",
@@ -2279,7 +2279,7 @@
   },
   {
     "id": 191,
-    "name": "Iron Bird Brewing Co.",
+    "brewery_name": "Iron Bird Brewing Co.",
     "brewery_type": "brewpub",
     "street": "402 S Nevada Ave",
     "city": "Colorado Springs",
@@ -2292,7 +2292,7 @@
   },
   {
     "id": 192,
-    "name": "Iron Tree Table & Taps",
+    "brewery_name": "Iron Tree Table & Taps",
     "brewery_type": "brewpub",
     "street": "37 Costello Ave",
     "city": "Florissant",
@@ -2303,7 +2303,7 @@
   },
   {
     "id": 193,
-    "name": "Ironworks Brewery & Pub",
+    "brewery_name": "Ironworks Brewery & Pub",
     "brewery_type": "brewpub",
     "street": "12354 W Alameda Pkwy Ste 110",
     "city": "Lakewood",
@@ -2314,7 +2314,7 @@
   },
   {
     "id": 194,
-    "name": "Irwin Brewing Company",
+    "brewery_name": "Irwin Brewing Company",
     "brewery_type": "micro",
     "street": "326 Belleview",
     "city": "Crested Butte",
@@ -2327,7 +2327,7 @@
   },
   {
     "id": 195,
-    "name": "J. Fargo's Family Dining & Micro Brewery / Coyote J Brewing Co",
+    "brewery_name": "J. Fargo's Family Dining & Micro Brewery / Coyote J Brewing Co",
     "brewery_type": "brewpub",
     "street": "1209 E Main St",
     "city": "Cortez",
@@ -2340,7 +2340,7 @@
   },
   {
     "id": 196,
-    "name": "J Moe's Brewing Company",
+    "brewery_name": "J Moe's Brewing Company",
     "brewery_type": "brewpub",
     "street": "7314 Washington St",
     "city": "Denver",
@@ -2353,7 +2353,7 @@
   },
   {
     "id": 197,
-    "name": "Jagged Mountain Brewery",
+    "brewery_name": "Jagged Mountain Brewery",
     "brewery_type": "micro",
     "street": "1139 20th St",
     "city": "Denver",
@@ -2366,7 +2366,7 @@
   },
   {
     "id": 198,
-    "name": "JAKs Brewing Company",
+    "brewery_name": "JAKs Brewing Company",
     "brewery_type": "micro",
     "street": "11860 Stapleton Dr",
     "city": "Peyton",
@@ -2377,7 +2377,7 @@
   },
   {
     "id": 199,
-    "name": "James Peak Brewery",
+    "brewery_name": "James Peak Brewery",
     "brewery_type": "brewpub",
     "street": "70 E First St",
     "city": "Nederland",
@@ -2388,7 +2388,7 @@
   },
   {
     "id": 200,
-    "name": "Jessup Farm Barrel House",
+    "brewery_name": "Jessup Farm Barrel House",
     "brewery_type": "micro",
     "street": "1921 Jessup Dr",
     "city": "Fort Collins",
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 201,
-    "name": "Joyride Brewing Co",
+    "brewery_name": "Joyride Brewing Co",
     "brewery_type": "micro",
     "street": "2501 Sheridan Blvd",
     "city": "Edgewater",
@@ -2414,7 +2414,7 @@
   },
   {
     "id": 202,
-    "name": "Kannah Creek Brewing Co",
+    "brewery_name": "Kannah Creek Brewing Co",
     "brewery_type": "brewpub",
     "street": "1960 N 12th St",
     "city": "Grand Junction",
@@ -2427,7 +2427,7 @@
   },
   {
     "id": 203,
-    "name": "Kettle and Spoke Brewery, LLC",
+    "brewery_name": "Kettle and Spoke Brewery, LLC",
     "brewery_type": "micro",
     "street": "2500 47th St Ste 12",
     "city": "Boulder",
@@ -2438,7 +2438,7 @@
   },
   {
     "id": 204,
-    "name": "Kokopelli Beer Company",
+    "brewery_name": "Kokopelli Beer Company",
     "brewery_type": "brewpub",
     "street": "8931 Harlan St",
     "city": "Westminster",
@@ -2451,7 +2451,7 @@
   },
   {
     "id": 205,
-    "name": "Lady Justice Brewing Company",
+    "brewery_name": "Lady Justice Brewing Company",
     "brewery_type": "micro",
     "street": "4375 Eaton St",
     "city": "Denver",
@@ -2463,7 +2463,7 @@
   },
   {
     "id": 206,
-    "name": "Lake City Brewing Company",
+    "brewery_name": "Lake City Brewing Company",
     "brewery_type": "brewpub",
     "street": "130 Bluff St",
     "city": "Lake City",
@@ -2476,7 +2476,7 @@
   },
   {
     "id": 207,
-    "name": "Landlocked Ales",
+    "brewery_name": "Landlocked Ales",
     "brewery_type": "micro",
     "street": "3225 S Wadsworth Blvd Unit R",
     "city": "Lakewood",
@@ -2487,7 +2487,7 @@
   },
   {
     "id": 208,
-    "name": "Lariat Lodge Brewing",
+    "brewery_name": "Lariat Lodge Brewing",
     "brewery_type": "brewpub",
     "street": "27618 Fireweed Dr",
     "city": "Evergreen",
@@ -2500,7 +2500,7 @@
   },
   {
     "id": 209,
-    "name": "Launch Pad Brewery",
+    "brewery_name": "Launch Pad Brewery",
     "brewery_type": "micro",
     "street": "884 S Buckley Rd",
     "city": "Aurora",
@@ -2513,7 +2513,7 @@
   },
   {
     "id": 210,
-    "name": "Left Hand Brewing Company",
+    "brewery_name": "Left Hand Brewing Company",
     "brewery_type": "regional",
     "street": "1265 Boston Ave",
     "city": "Longmont",
@@ -2526,7 +2526,7 @@
   },
   {
     "id": 211,
-    "name": "Liquid Mechanics Brewing Company",
+    "brewery_name": "Liquid Mechanics Brewing Company",
     "brewery_type": "micro",
     "street": "297 N US Highway 287",
     "city": "Lafayette",
@@ -2537,7 +2537,7 @@
   },
   {
     "id": 212,
-    "name": "Little Machine",
+    "brewery_name": "Little Machine",
     "brewery_type": "micro",
     "street": "2924 W 20th Ave",
     "city": "Denver",
@@ -2550,7 +2550,7 @@
   },
   {
     "id": 213,
-    "name": "Living the Dream Brewing Co.",
+    "brewery_name": "Living the Dream Brewing Co.",
     "brewery_type": "micro",
     "street": "12305 Dumont Way Unit A",
     "city": "Littleton",
@@ -2561,7 +2561,7 @@
   },
   {
     "id": 214,
-    "name": "Local Relic",
+    "brewery_name": "Local Relic",
     "brewery_type": "brewpub",
     "street": "320 S Weber St",
     "city": "Colorado Springs",
@@ -2574,7 +2574,7 @@
   },
   {
     "id": 215,
-    "name": "Locavore Beer Works",
+    "brewery_name": "Locavore Beer Works",
     "brewery_type": "micro",
     "street": "5950 S Platte Canyon Rd Ste D13",
     "city": "Littleton",
@@ -2585,7 +2585,7 @@
   },
   {
     "id": 216,
-    "name": "Lone Tree Brewing Co",
+    "brewery_name": "Lone Tree Brewing Co",
     "brewery_type": "micro",
     "street": "8222 Park Meadows Dr",
     "city": "Lone Tree",
@@ -2598,7 +2598,7 @@
   },
   {
     "id": 217,
-    "name": "Long Table Brewing",
+    "brewery_name": "Long Table Brewing",
     "brewery_type": "micro",
     "street": "2895 Fairfax St",
     "city": "Denver",
@@ -2609,7 +2609,7 @@
   },
   {
     "id": 218,
-    "name": "Lost Friend Brewing Company",
+    "brewery_name": "Lost Friend Brewing Company",
     "brewery_type": "micro",
     "street": "2458 Montebello Square Dr",
     "city": "Colorado Springs",
@@ -2621,7 +2621,7 @@
   },
   {
     "id": 219,
-    "name": "Lost Highway Brewing",
+    "brewery_name": "Lost Highway Brewing",
     "brewery_type": "micro",
     "street": "12741 E Caley Ave Ste 140",
     "city": "Centennial",
@@ -2631,7 +2631,7 @@
   },
   {
     "id": 220,
-    "name": "Loveland Aleworks",
+    "brewery_name": "Loveland Aleworks",
     "brewery_type": "micro",
     "street": "118 W 4th St",
     "city": "Loveland",
@@ -2644,7 +2644,7 @@
   },
   {
     "id": 221,
-    "name": "Lowdown Brewery + Kitchen",
+    "brewery_name": "Lowdown Brewery + Kitchen",
     "brewery_type": "brewpub",
     "street": "800 N Lincoln St Unit 2",
     "city": "Denver",
@@ -2655,7 +2655,7 @@
   },
   {
     "id": 222,
-    "name": "Lumpy Ridge Brewing Co",
+    "brewery_name": "Lumpy Ridge Brewing Co",
     "brewery_type": "micro",
     "street": "531 S St Vrain Ave",
     "city": "Estes Park",
@@ -2668,7 +2668,7 @@
   },
   {
     "id": 223,
-    "name": "Mad Jack's Mountain Brewery",
+    "brewery_name": "Mad Jack's Mountain Brewery",
     "brewery_type": "micro",
     "street": "23 Main St",
     "city": "Bailey",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": 224,
-    "name": "Mahogany Ridge Brewery & Grill",
+    "brewery_name": "Mahogany Ridge Brewery & Grill",
     "brewery_type": "brewpub",
     "street": "435 Lincoln Ave",
     "city": "Steamboat Springs",
@@ -2693,7 +2693,7 @@
   },
   {
     "id": 225,
-    "name": "Main Street Brewery/Four Corners",
+    "brewery_name": "Main Street Brewery/Four Corners",
     "brewery_type": "brewpub",
     "street": "21 E Main St",
     "city": "Cortez",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": 226,
-    "name": "Mancos Brewing Company",
+    "brewery_name": "Mancos Brewing Company",
     "brewery_type": "brewpub",
     "street": "484 E. Frontage Rd",
     "city": "Mancos",
@@ -2716,7 +2716,7 @@
   },
   {
     "id": 227,
-    "name": "Manitou Brewing Company",
+    "brewery_name": "Manitou Brewing Company",
     "brewery_type": "brewpub",
     "street": "725 Manitou Ave",
     "city": "Manitou Springs",
@@ -2729,7 +2729,7 @@
   },
   {
     "id": 228,
-    "name": "Mash Lab Brewing",
+    "brewery_name": "Mash Lab Brewing",
     "brewery_type": "micro",
     "street": "4395 Highland Meadows Pkwy",
     "city": "Windsor",
@@ -2742,7 +2742,7 @@
   },
   {
     "id": 229,
-    "name": "Maxline Brewing",
+    "brewery_name": "Maxline Brewing",
     "brewery_type": "micro",
     "street": "2724 McClelland Dr Ste 190",
     "city": "Fort Collins",
@@ -2755,7 +2755,7 @@
   },
   {
     "id": 230,
-    "name": "McClellan's Brewing Company",
+    "brewery_name": "McClellan's Brewing Company",
     "brewery_type": "brewpub",
     "street": "1035 S Taft Hill Rd",
     "city": "Fort Collins",
@@ -2768,7 +2768,7 @@
   },
   {
     "id": 231,
-    "name": "MillerCoors Brewing Co - Golden",
+    "brewery_name": "MillerCoors Brewing Co - Golden",
     "brewery_type": "large",
     "street": "311 10th St",
     "city": "Golden",
@@ -2780,7 +2780,7 @@
   },
   {
     "id": 232,
-    "name": "Mockery Brewing",
+    "brewery_name": "Mockery Brewing",
     "brewery_type": "micro",
     "street": "3501 Delgany St",
     "city": "Denver",
@@ -2793,7 +2793,7 @@
   },
   {
     "id": 233,
-    "name": "Moonlight Pizza",
+    "brewery_name": "Moonlight Pizza",
     "brewery_type": "brewpub",
     "street": "242 F St",
     "city": "Salida",
@@ -2806,7 +2806,7 @@
   },
   {
     "id": 234,
-    "name": "Mother Tucker Brewery",
+    "brewery_name": "Mother Tucker Brewery",
     "brewery_type": "micro",
     "street": "2360 E 120th Ave",
     "city": "Thornton",
@@ -2819,7 +2819,7 @@
   },
   {
     "id": 235,
-    "name": "Mountain Cowboy Brewing Company",
+    "brewery_name": "Mountain Cowboy Brewing Company",
     "brewery_type": "brewpub",
     "street": "318 5th St",
     "city": "Frederick",
@@ -2832,7 +2832,7 @@
   },
   {
     "id": 236,
-    "name": "Mountain Sun Pub and Brewery",
+    "brewery_name": "Mountain Sun Pub and Brewery",
     "brewery_type": "brewpub",
     "street": "1535 Pearl St",
     "city": "Boulder",
@@ -2845,7 +2845,7 @@
   },
   {
     "id": 237,
-    "name": "Mountain Tap Brewery",
+    "brewery_name": "Mountain Tap Brewery",
     "brewery_type": "brewpub",
     "street": "910 Yampa Street",
     "city": "Steamboat Springs",
@@ -2858,7 +2858,7 @@
   },
   {
     "id": 238,
-    "name": "Mountain Toad Brewing",
+    "brewery_name": "Mountain Toad Brewing",
     "brewery_type": "micro",
     "street": "900 Washington Ave",
     "city": "Golden",
@@ -2871,7 +2871,7 @@
   },
   {
     "id": 239,
-    "name": "Nano 108 Brewing Co",
+    "brewery_name": "Nano 108 Brewing Co",
     "brewery_type": "micro",
     "street": "2402 Waynoka Rd",
     "city": "Colorado Springs",
@@ -2882,7 +2882,7 @@
   },
   {
     "id": 240,
-    "name": "Never Summer Brewing Co",
+    "brewery_name": "Never Summer Brewing Co",
     "brewery_type": "micro",
     "street": "62 E Agate Ave",
     "city": "Granby",
@@ -2894,7 +2894,7 @@
   },
   {
     "id": 241,
-    "name": "New Belgium Brewing Co",
+    "brewery_name": "New Belgium Brewing Co",
     "brewery_type": "regional",
     "street": "500 Linden St",
     "city": "Fort Collins",
@@ -2907,7 +2907,7 @@
   },
   {
     "id": 242,
-    "name": "New Image Brewing Co",
+    "brewery_name": "New Image Brewing Co",
     "brewery_type": "brewpub",
     "street": "5622 Yukon St",
     "city": "Arvada",
@@ -2920,7 +2920,7 @@
   },
   {
     "id": 243,
-    "name": "New Planet Beer Co",
+    "brewery_name": "New Planet Beer Co",
     "brewery_type": "contract",
     "street": "3980 Broadway St Ste 103 # 116",
     "city": "Boulder",
@@ -2931,7 +2931,7 @@
   },
   {
     "id": 244,
-    "name": "New Terrain Brewing Company",
+    "brewery_name": "New Terrain Brewing Company",
     "brewery_type": "micro",
     "street": "16401 Table Mountain Pkwy",
     "city": "Golden",
@@ -2944,7 +2944,7 @@
   },
   {
     "id": 245,
-    "name": "Novel Strand Brewing",
+    "brewery_name": "Novel Strand Brewing",
     "brewery_type": "micro",
     "street": "305 W 1st Ave",
     "city": "Denver",
@@ -2956,7 +2956,7 @@
   },
   {
     "id": 246,
-    "name": "Oasis Brewery",
+    "brewery_name": "Oasis Brewery",
     "brewery_type": "micro",
     "street": "3257 N Lowell Blvd",
     "city": "Denver",
@@ -2967,7 +2967,7 @@
   },
   {
     "id": 247,
-    "name": "Odd13 Brewing Inc",
+    "brewery_name": "Odd13 Brewing Inc",
     "brewery_type": "micro",
     "street": "301 E Simpson St",
     "city": "Lafayette",
@@ -2980,7 +2980,7 @@
   },
   {
     "id": 248,
-    "name": "Odd13 Production Facility",
+    "brewery_name": "Odd13 Production Facility",
     "brewery_type": "micro",
     "street": "505 Stacy Ct Ste D",
     "city": "Lafayette",
@@ -2989,7 +2989,7 @@
   },
   {
     "id": 249,
-    "name": "Odell Brewing Co - Denver",
+    "brewery_name": "Odell Brewing Co - Denver",
     "brewery_type": "micro",
     "street": "2945 Larimer St",
     "city": "Denver",
@@ -3000,7 +3000,7 @@
   },
   {
     "id": 250,
-    "name": "Odell Brewing Co",
+    "brewery_name": "Odell Brewing Co",
     "brewery_type": "regional",
     "street": "800 E Lincoln Ave",
     "city": "Fort Collins",
@@ -3013,7 +3013,7 @@
   },
   {
     "id": 251,
-    "name": "Odyssey Beerwerks",
+    "brewery_name": "Odyssey Beerwerks",
     "brewery_type": "micro",
     "street": "5535 W 56th Ave Ste 107",
     "city": "Arvada",
@@ -3024,7 +3024,7 @@
   },
   {
     "id": 252,
-    "name": "Old Colorado Brewing Co",
+    "brewery_name": "Old Colorado Brewing Co",
     "brewery_type": "micro",
     "street": "8121 First St.",
     "city": "Wellington",
@@ -3035,7 +3035,7 @@
   },
   {
     "id": 253,
-    "name": "Open Door Brewing Company",
+    "brewery_name": "Open Door Brewing Company",
     "brewery_type": "contract",
     "street": "2030 Ionosphere St Unit G",
     "city": "Longmont",
@@ -3046,7 +3046,7 @@
   },
   {
     "id": 254,
-    "name": "Oskar Blues Brewery - Lyons",
+    "brewery_name": "Oskar Blues Brewery - Lyons",
     "brewery_type": "brewpub",
     "street": "303 Main St",
     "city": "Lyons",
@@ -3059,7 +3059,7 @@
   },
   {
     "id": 255,
-    "name": "Oskar Blues Brewery & Tasty Weasel Tap Room",
+    "brewery_name": "Oskar Blues Brewery & Tasty Weasel Tap Room",
     "brewery_type": "regional",
     "street": "1800 Pike Rd Unit B",
     "city": "Longmont",
@@ -3070,7 +3070,7 @@
   },
   {
     "id": 256,
-    "name": "Our Mutual Friend Brewing",
+    "brewery_name": "Our Mutual Friend Brewing",
     "brewery_type": "micro",
     "street": "2810 Larimer St",
     "city": "Denver",
@@ -3083,7 +3083,7 @@
   },
   {
     "id": 257,
-    "name": "Ouray Brewery",
+    "brewery_name": "Ouray Brewery",
     "brewery_type": "brewpub",
     "street": "607 Main St",
     "city": "Ouray",
@@ -3096,7 +3096,7 @@
   },
   {
     "id": 258,
-    "name": "Ourayle House Brewery",
+    "brewery_name": "Ourayle House Brewery",
     "brewery_type": "micro",
     "street": "703 Main St",
     "city": "Ouray",
@@ -3108,7 +3108,7 @@
   },
   {
     "id": 259,
-    "name": "Outer Range Brewing Co",
+    "brewery_name": "Outer Range Brewing Co",
     "brewery_type": "micro",
     "street": "182 Lusher Court #2",
     "city": "Frisco",
@@ -3121,7 +3121,7 @@
   },
   {
     "id": 260,
-    "name": "Pagosa Brewing & Grill",
+    "brewery_name": "Pagosa Brewing & Grill",
     "brewery_type": "brewpub",
     "street": "118 N Pagosa Blvd",
     "city": "Pagosa Springs",
@@ -3132,7 +3132,7 @@
   },
   {
     "id": 261,
-    "name": "Palisade Brewing Company",
+    "brewery_name": "Palisade Brewing Company",
     "brewery_type": "brewpub",
     "street": "200 Peach Ave",
     "city": "Palisade",
@@ -3145,7 +3145,7 @@
   },
   {
     "id": 262,
-    "name": "Paonia United Brewing Company",
+    "brewery_name": "Paonia United Brewing Company",
     "brewery_type": "micro",
     "street": "325 Grand Ave",
     "city": "Paonia",
@@ -3158,7 +3158,7 @@
   },
   {
     "id": 263,
-    "name": "Paradox Beer Co",
+    "brewery_name": "Paradox Beer Co",
     "brewery_type": "micro",
     "street": "10 Buffalo Ct",
     "city": "Divide",
@@ -3170,7 +3170,7 @@
   },
   {
     "id": 264,
-    "name": "Parts & Labor Brewing Company",
+    "brewery_name": "Parts & Labor Brewing Company",
     "brewery_type": "brewpub",
     "street": "402 Main St Unit B",
     "city": "Sterling",
@@ -3181,7 +3181,7 @@
   },
   {
     "id": 265,
-    "name": "Pdub Brewing Co",
+    "brewery_name": "Pdub Brewing Co",
     "brewery_type": "brewpub",
     "street": "187 S Purcell Blvd",
     "city": "Pueblo",
@@ -3194,7 +3194,7 @@
   },
   {
     "id": 266,
-    "name": "Peak To Peak Tap & Brew",
+    "brewery_name": "Peak To Peak Tap & Brew",
     "brewery_type": "brewpub",
     "street": "16701 E Iliff Ave",
     "city": "Aurora",
@@ -3207,7 +3207,7 @@
   },
   {
     "id": 267,
-    "name": "Peak To Peak Tap & Brew",
+    "brewery_name": "Peak To Peak Tap & Brew",
     "brewery_type": "micro",
     "street": "9735 E Colfax Ave",
     "city": "Aurora",
@@ -3218,7 +3218,7 @@
   },
   {
     "id": 268,
-    "name": "Peaks N Pines Brewing Company",
+    "brewery_name": "Peaks N Pines Brewing Company",
     "brewery_type": "micro",
     "street": "4005 Tutt Blvd",
     "city": "Colorado Springs",
@@ -3231,7 +3231,7 @@
   },
   {
     "id": 269,
-    "name": "Periodic Brewing LLC",
+    "brewery_name": "Periodic Brewing LLC",
     "brewery_type": "brewpub",
     "street": "115 E 7th St",
     "city": "Leadville",
@@ -3244,7 +3244,7 @@
   },
   {
     "id": 270,
-    "name": "Periodic Brewing Northglenn",
+    "brewery_name": "Periodic Brewing Northglenn",
     "brewery_type": "micro",
     "street": "2100 E 112th Ave",
     "city": "Northglenn",
@@ -3256,7 +3256,7 @@
   },
   {
     "id": 271,
-    "name": "Phantom Canyon Brewing Co",
+    "brewery_name": "Phantom Canyon Brewing Co",
     "brewery_type": "brewpub",
     "street": "2 E Pikes Peak Ave",
     "city": "Colorado Springs",
@@ -3269,7 +3269,7 @@
   },
   {
     "id": 272,
-    "name": "Pikes Peak Brewing",
+    "brewery_name": "Pikes Peak Brewing",
     "brewery_type": "micro",
     "street": "1756 Lake Woodmoor Dr",
     "city": "Monument",
@@ -3280,7 +3280,7 @@
   },
   {
     "id": 273,
-    "name": "Pilothouse Brewing Company",
+    "brewery_name": "Pilothouse Brewing Company",
     "brewery_type": "micro",
     "street": "4233 S Buckley Rd",
     "city": "Aurora",
@@ -3293,7 +3293,7 @@
   },
   {
     "id": 274,
-    "name": "Pints Pub Brewery and Freehouse",
+    "brewery_name": "Pints Pub Brewery and Freehouse",
     "brewery_type": "brewpub",
     "street": "221 W 13th Ave",
     "city": "Denver",
@@ -3306,7 +3306,7 @@
   },
   {
     "id": 275,
-    "name": "Pitchers Sports Restaurant and Brewery",
+    "brewery_name": "Pitchers Sports Restaurant and Brewery",
     "brewery_type": "brewpub",
     "street": "1100 W Drake Rd",
     "city": "Fort Collins",
@@ -3319,7 +3319,7 @@
   },
   {
     "id": 276,
-    "name": "Platt Park Brewing Co.",
+    "brewery_name": "Platt Park Brewing Co.",
     "brewery_type": "micro",
     "street": "1875 S Pearl St",
     "city": "Denver",
@@ -3332,7 +3332,7 @@
   },
   {
     "id": 277,
-    "name": "Primitive Beer LLC",
+    "brewery_name": "Primitive Beer LLC",
     "brewery_type": "micro",
     "street": "2025 Ionosphere St Unit 101",
     "city": "Longmont",
@@ -3343,7 +3343,7 @@
   },
   {
     "id": 278,
-    "name": "Prost Brewing",
+    "brewery_name": "Prost Brewing",
     "brewery_type": "micro",
     "street": "2540 19th St",
     "city": "Denver",
@@ -3356,7 +3356,7 @@
   },
   {
     "id": 279,
-    "name": "Pug Ryan's Brewing Company",
+    "brewery_name": "Pug Ryan's Brewing Company",
     "brewery_type": "brewpub",
     "street": "104 Village Pl",
     "city": "Dillon",
@@ -3369,7 +3369,7 @@
   },
   {
     "id": 280,
-    "name": "Pumphouse Brewery and Restaurant",
+    "brewery_name": "Pumphouse Brewery and Restaurant",
     "brewery_type": "brewpub",
     "street": "540 Main St",
     "city": "Longmont",
@@ -3382,7 +3382,7 @@
   },
   {
     "id": 281,
-    "name": "Purpose Brewing and Cellars",
+    "brewery_name": "Purpose Brewing and Cellars",
     "brewery_type": "micro",
     "street": "4025 S Mason St Unit C",
     "city": "Fort Collins",
@@ -3393,7 +3393,7 @@
   },
   {
     "id": 282,
-    "name": "Rails End Beer Company",
+    "brewery_name": "Rails End Beer Company",
     "brewery_type": "micro",
     "street": "11625 Reed Ct",
     "city": "Broomfield",
@@ -3406,7 +3406,7 @@
   },
   {
     "id": 283,
-    "name": "Rally King Brewing",
+    "brewery_name": "Rally King Brewing",
     "brewery_type": "micro",
     "street": "1624 S Lemay Ave Unit 4",
     "city": "Fort Collins",
@@ -3417,7 +3417,7 @@
   },
   {
     "id": 284,
-    "name": "Ratio Beerworks",
+    "brewery_name": "Ratio Beerworks",
     "brewery_type": "micro",
     "street": "2920 Larimer St",
     "city": "Denver",
@@ -3430,7 +3430,7 @@
   },
   {
     "id": 285,
-    "name": "Red Leg Brewing Company",
+    "brewery_name": "Red Leg Brewing Company",
     "brewery_type": "micro",
     "street": "4630 Forge Rd Ste B",
     "city": "Colorado Springs",
@@ -3441,7 +3441,7 @@
   },
   {
     "id": 286,
-    "name": "Red Mountain Brewing",
+    "brewery_name": "Red Mountain Brewing",
     "brewery_type": "brewpub",
     "street": "400 Main St",
     "city": "Ouray",
@@ -3454,7 +3454,7 @@
   },
   {
     "id": 287,
-    "name": "Red Truck Beer Company Ltd.",
+    "brewery_name": "Red Truck Beer Company Ltd.",
     "brewery_type": "micro",
     "street": "1020 E Lincoln Ave",
     "city": "Fort Collins",
@@ -3466,7 +3466,7 @@
   },
   {
     "id": 288,
-    "name": "Redgarden Brewery",
+    "brewery_name": "Redgarden Brewery",
     "brewery_type": "brewpub",
     "street": "1700 Dogwood St",
     "city": "Louisville",
@@ -3479,7 +3479,7 @@
   },
   {
     "id": 289,
-    "name": "Renegade Brewing Company",
+    "brewery_name": "Renegade Brewing Company",
     "brewery_type": "micro",
     "street": "918 W 1st Ave",
     "city": "Denver",
@@ -3492,7 +3492,7 @@
   },
   {
     "id": 290,
-    "name": "Renegade Brewing Company - Production",
+    "brewery_name": "Renegade Brewing Company - Production",
     "brewery_type": "micro",
     "street": "918 W 1st Ave",
     "city": "Denver",
@@ -3505,7 +3505,7 @@
   },
   {
     "id": 291,
-    "name": "Resolute Brewing Company",
+    "brewery_name": "Resolute Brewing Company",
     "brewery_type": "micro",
     "street": "7286 S Yosemite St Ste 110",
     "city": "Centennial",
@@ -3516,7 +3516,7 @@
   },
   {
     "id": 292,
-    "name": "Riff Raff Brewing",
+    "brewery_name": "Riff Raff Brewing",
     "brewery_type": "brewpub",
     "street": "274 Pagosa St",
     "city": "Pagosa Springs",
@@ -3529,7 +3529,7 @@
   },
   {
     "id": 293,
-    "name": "River North Brewery",
+    "brewery_name": "River North Brewery",
     "brewery_type": "micro",
     "street": "6021 Washington St Unit A",
     "city": "Denver",
@@ -3540,7 +3540,7 @@
   },
   {
     "id": 294,
-    "name": "Roaring Fork Beer Company",
+    "brewery_name": "Roaring Fork Beer Company",
     "brewery_type": "proprietor",
     "street": "1941 Dolores Way",
     "city": "Carbondale",
@@ -3551,7 +3551,7 @@
   },
   {
     "id": 295,
-    "name": "Rock Bottom Brewery - Centerra Promenade",
+    "brewery_name": "Rock Bottom Brewery - Centerra Promenade",
     "brewery_type": "brewpub",
     "street": "6025 Sky Pond Dr",
     "city": "Loveland",
@@ -3564,7 +3564,7 @@
   },
   {
     "id": 296,
-    "name": "Rock Bottom Brewery - Colorado Springs",
+    "brewery_name": "Rock Bottom Brewery - Colorado Springs",
     "brewery_type": "brewpub",
     "street": "3316 Cinema Point Dr",
     "city": "Colorado Springs",
@@ -3577,7 +3577,7 @@
   },
   {
     "id": 297,
-    "name": "Rock Bottom Brewery - Denver",
+    "brewery_name": "Rock Bottom Brewery - Denver",
     "brewery_type": "brewpub",
     "street": "1001 16th St Ste 100",
     "city": "Denver",
@@ -3588,7 +3588,7 @@
   },
   {
     "id": 298,
-    "name": "Rock Bottom Brewery - Englewood",
+    "brewery_name": "Rock Bottom Brewery - Englewood",
     "brewery_type": "brewpub",
     "street": "9627 E County Line Rd",
     "city": "Englewood",
@@ -3599,7 +3599,7 @@
   },
   {
     "id": 299,
-    "name": "Rock Bottom Brewery - Highlands Ranch",
+    "brewery_name": "Rock Bottom Brewery - Highlands Ranch",
     "brewery_type": "brewpub",
     "street": "1505 Park Central Dr",
     "city": "Highlands Ranch",
@@ -3608,7 +3608,7 @@
   },
   {
     "id": 300,
-    "name": "Rock Bottom Brewery - Orchard Cntr",
+    "brewery_name": "Rock Bottom Brewery - Orchard Cntr",
     "brewery_type": "brewpub",
     "street": "14694 Orchard Pkwy Unit 400",
     "city": "Westminster",
@@ -3619,7 +3619,7 @@
   },
   {
     "id": 301,
-    "name": "Rock Bottom Brewery - Westminster",
+    "brewery_name": "Rock Bottom Brewery - Westminster",
     "brewery_type": "brewpub",
     "street": "10633 Westminster Blvd Unit 900",
     "city": "Westminster",
@@ -3630,7 +3630,7 @@
   },
   {
     "id": 302,
-    "name": "Rock Cut Brewing Company",
+    "brewery_name": "Rock Cut Brewing Company",
     "brewery_type": "micro",
     "street": "390 W Riverside Dr",
     "city": "Estes Park",
@@ -3641,7 +3641,7 @@
   },
   {
     "id": 303,
-    "name": "Rockslide Brewing Co",
+    "brewery_name": "Rockslide Brewing Co",
     "brewery_type": "brewpub",
     "street": "401 Main St",
     "city": "Grand Junction",
@@ -3654,7 +3654,7 @@
   },
   {
     "id": 304,
-    "name": "Rocky Mountain Brewery",
+    "brewery_name": "Rocky Mountain Brewery",
     "brewery_type": "micro",
     "street": "625 Paonia St",
     "city": "Colorado Springs",
@@ -3665,7 +3665,7 @@
   },
   {
     "id": 305,
-    "name": "Rocky Mountain Taphouse, LLC",
+    "brewery_name": "Rocky Mountain Taphouse, LLC",
     "brewery_type": "micro",
     "street": "3050 67th Ave Ste 104",
     "city": "Greeley",
@@ -3678,7 +3678,7 @@
   },
   {
     "id": 306,
-    "name": "Rockyard Brewing Company",
+    "brewery_name": "Rockyard Brewing Company",
     "brewery_type": "brewpub",
     "street": "880 Castleton Rd",
     "city": "Castle Rock",
@@ -3691,7 +3691,7 @@
   },
   {
     "id": 307,
-    "name": "Royal Gorge Brew Pub",
+    "brewery_name": "Royal Gorge Brew Pub",
     "brewery_type": "brewpub",
     "street": "413 Main St",
     "city": "Canon City",
@@ -3704,7 +3704,7 @@
   },
   {
     "id": 308,
-    "name": "Rustica Brewing Company",
+    "brewery_name": "Rustica Brewing Company",
     "brewery_type": "micro",
     "street": "2370 S Kalamath St Unit A",
     "city": "Denver",
@@ -3715,7 +3715,7 @@
   },
   {
     "id": 309,
-    "name": "Saint Patrick's Brewing Company",
+    "brewery_name": "Saint Patrick's Brewing Company",
     "brewery_type": "micro",
     "street": "2842 W Bowles Ave",
     "city": "Littleton",
@@ -3728,7 +3728,7 @@
   },
   {
     "id": 310,
-    "name": "San Luis Valley Brewing Co",
+    "brewery_name": "San Luis Valley Brewing Co",
     "brewery_type": "brewpub",
     "street": "631 Main St",
     "city": "Alamosa",
@@ -3741,7 +3741,7 @@
   },
   {
     "id": 311,
-    "name": "Sanitas Brewing Co",
+    "brewery_name": "Sanitas Brewing Co",
     "brewery_type": "micro",
     "street": "3550 Frontier Ave Ste A",
     "city": "Boulder",
@@ -3752,7 +3752,7 @@
   },
   {
     "id": 312,
-    "name": "Seedstock Brewery",
+    "brewery_name": "Seedstock Brewery",
     "brewery_type": "micro",
     "street": "3610 W Colfax Ave",
     "city": "Denver",
@@ -3765,7 +3765,7 @@
   },
   {
     "id": 313,
-    "name": "Shamrock Brewing Company",
+    "brewery_name": "Shamrock Brewing Company",
     "brewery_type": "brewpub",
     "street": "108 W 3rd St",
     "city": "Pueblo",
@@ -3778,7 +3778,7 @@
   },
   {
     "id": 314,
-    "name": "Sherpa Brewery Pvt. Ltd.",
+    "brewery_name": "Sherpa Brewery Pvt. Ltd.",
     "brewery_type": "contract",
     "street": "1708 W 17th Dr",
     "city": "Golden",
@@ -3789,7 +3789,7 @@
   },
   {
     "id": 315,
-    "name": "Shoes & Brews",
+    "brewery_name": "Shoes & Brews",
     "brewery_type": "micro",
     "street": "63 S Pratt Pkwy Unit B",
     "city": "Longmont",
@@ -3800,7 +3800,7 @@
   },
   {
     "id": 316,
-    "name": "SKA Brewing",
+    "brewery_name": "SKA Brewing",
     "brewery_type": "regional",
     "street": "225 Girard, Bodo Park",
     "city": "Durango",
@@ -3809,7 +3809,7 @@
   },
   {
     "id": 317,
-    "name": "Sleeping Giant Brewing Company",
+    "brewery_name": "Sleeping Giant Brewing Company",
     "brewery_type": "micro",
     "street": "2500 W 5th Ave",
     "city": "Denver",
@@ -3821,7 +3821,7 @@
   },
   {
     "id": 318,
-    "name": "Smiling Toad Brewery",
+    "brewery_name": "Smiling Toad Brewery",
     "brewery_type": "micro",
     "street": "1757 S 8th St Ste 100",
     "city": "Colorado Springs",
@@ -3832,7 +3832,7 @@
   },
   {
     "id": 319,
-    "name": "Smuggler's Brewpub",
+    "brewery_name": "Smuggler's Brewpub",
     "brewery_type": "brewpub",
     "street": "225 South Pine St",
     "city": "Telluride",
@@ -3845,7 +3845,7 @@
   },
   {
     "id": 320,
-    "name": "Snowbank Brewing",
+    "brewery_name": "Snowbank Brewing",
     "brewery_type": "micro",
     "street": "225 N Lemay Ave Ste 1",
     "city": "Fort Collins",
@@ -3856,7 +3856,7 @@
   },
   {
     "id": 321,
-    "name": "SomePlace Else Brewery",
+    "brewery_name": "SomePlace Else Brewery",
     "brewery_type": "micro",
     "street": "6425 W 52nd Ave Unit 6/6B",
     "city": "Arvada",
@@ -3866,7 +3866,7 @@
   },
   {
     "id": 322,
-    "name": "Something Brewery",
+    "brewery_name": "Something Brewery",
     "brewery_type": "micro",
     "street": "117 N Main St Unit A",
     "city": "Brighton",
@@ -3877,7 +3877,7 @@
   },
   {
     "id": 323,
-    "name": "Soul Squared Brewing Co.",
+    "brewery_name": "Soul Squared Brewing Co.",
     "brewery_type": "micro",
     "street": "6412 N County Road 15",
     "city": "Fort Collins",
@@ -3887,7 +3887,7 @@
   },
   {
     "id": 324,
-    "name": "Soulcraft Brewing",
+    "brewery_name": "Soulcraft Brewing",
     "brewery_type": "micro",
     "street": "248 W US Highway 50",
     "city": "Salida",
@@ -3898,7 +3898,7 @@
   },
   {
     "id": 325,
-    "name": "South Park Brewing",
+    "brewery_name": "South Park Brewing",
     "brewery_type": "micro",
     "street": "297 1/2 US Hwy 285",
     "city": "Fairplay",
@@ -3909,7 +3909,7 @@
   },
   {
     "id": 326,
-    "name": "Southern Sun Pub and Brewery",
+    "brewery_name": "Southern Sun Pub and Brewery",
     "brewery_type": "brewpub",
     "street": "627 S Broadway St",
     "city": "Boulder",
@@ -3920,7 +3920,7 @@
   },
   {
     "id": 327,
-    "name": "Spangalang Brewery",
+    "brewery_name": "Spangalang Brewery",
     "brewery_type": "micro",
     "street": "2736 Welton St Ste 102",
     "city": "Denver",
@@ -3933,7 +3933,7 @@
   },
   {
     "id": 328,
-    "name": "Spice Trade Brewing",
+    "brewery_name": "Spice Trade Brewing",
     "brewery_type": "brewpub",
     "street": "7803 Ralston Rd",
     "city": "Arvada",
@@ -3946,7 +3946,7 @@
   },
   {
     "id": 329,
-    "name": "Square Peg Brewerks",
+    "brewery_name": "Square Peg Brewerks",
     "brewery_type": "micro",
     "street": "625 Main St",
     "city": "Alamosa",
@@ -3959,7 +3959,7 @@
   },
   {
     "id": 330,
-    "name": "Station 26 Brewing Co",
+    "brewery_name": "Station 26 Brewing Co",
     "brewery_type": "micro",
     "street": "7045 E 38th Ave",
     "city": "Denver",
@@ -3971,7 +3971,7 @@
   },
   {
     "id": 331,
-    "name": "Steamworks Brewing Co",
+    "brewery_name": "Steamworks Brewing Co",
     "brewery_type": "brewpub",
     "street": "801 E 2nd Ave",
     "city": "Durango",
@@ -3984,7 +3984,7 @@
   },
   {
     "id": 332,
-    "name": "Stein Brewing Company",
+    "brewery_name": "Stein Brewing Company",
     "brewery_type": "micro",
     "street": "2516 49th St",
     "city": "Boulder",
@@ -3997,7 +3997,7 @@
   },
   {
     "id": 333,
-    "name": "Storm Peak Brewing Company",
+    "brewery_name": "Storm Peak Brewing Company",
     "brewery_type": "micro",
     "street": "1885 Elk River Plz Unit 4",
     "city": "Steamboat Springs",
@@ -4008,7 +4008,7 @@
   },
   {
     "id": 334,
-    "name": "Storybook Brewing",
+    "brewery_name": "Storybook Brewing",
     "brewery_type": "micro",
     "street": "3121 N El Paso St Ste A",
     "city": "Colorado Springs",
@@ -4019,7 +4019,7 @@
   },
   {
     "id": 335,
-    "name": "Strange Craft Beer Co",
+    "brewery_name": "Strange Craft Beer Co",
     "brewery_type": "micro",
     "street": "1330 Zuni St Ste M",
     "city": "Denver",
@@ -4030,7 +4030,7 @@
   },
   {
     "id": 336,
-    "name": "Suds Brothers Brewing Co #2",
+    "brewery_name": "Suds Brothers Brewing Co #2",
     "brewery_type": "brewpub",
     "street": "127 E Aspen Ave",
     "city": "Fruita",
@@ -4043,7 +4043,7 @@
   },
   {
     "id": 337,
-    "name": "Telluride Brewing Co",
+    "brewery_name": "Telluride Brewing Co",
     "brewery_type": "micro",
     "street": "156 DEF Society Drive",
     "city": "Telluride",
@@ -4054,7 +4054,7 @@
   },
   {
     "id": 338,
-    "name": "The Bakers' Brewery",
+    "brewery_name": "The Bakers' Brewery",
     "brewery_type": "brewpub",
     "street": "531 Silverthorne Ln",
     "city": "Silverthorne",
@@ -4067,7 +4067,7 @@
   },
   {
     "id": 339,
-    "name": "The Brew On Broadway (The BoB)",
+    "brewery_name": "The Brew On Broadway (The BoB)",
     "brewery_type": "micro",
     "street": "3445 S Broadway",
     "city": "Englewood",
@@ -4080,7 +4080,7 @@
   },
   {
     "id": 340,
-    "name": "The Grateful Gnome Sandwich Shoppe and Brewery",
+    "brewery_name": "The Grateful Gnome Sandwich Shoppe and Brewery",
     "brewery_type": "brewpub",
     "street": "4369 Stuart St",
     "city": "Denver",
@@ -4093,7 +4093,7 @@
   },
   {
     "id": 341,
-    "name": "The Intrepid Sojourner Beer Project",
+    "brewery_name": "The Intrepid Sojourner Beer Project",
     "brewery_type": "micro",
     "street": "925 W 8th Ave",
     "city": "Denver",
@@ -4106,7 +4106,7 @@
   },
   {
     "id": 342,
-    "name": "The Larimer Beer Company",
+    "brewery_name": "The Larimer Beer Company",
     "brewery_type": "contract",
     "street": "3620 Newport St",
     "city": "Denver",
@@ -4119,7 +4119,7 @@
   },
   {
     "id": 343,
-    "name": "The Peak Brewing Company",
+    "brewery_name": "The Peak Brewing Company",
     "brewery_type": "brewpub",
     "street": "78491 US-40",
     "city": "Winter Park",
@@ -4130,7 +4130,7 @@
   },
   {
     "id": 344,
-    "name": "The Post Brewing Co",
+    "brewery_name": "The Post Brewing Co",
     "brewery_type": "brewpub",
     "street": "2027 13th St",
     "city": "Boulder",
@@ -4143,7 +4143,7 @@
   },
   {
     "id": 345,
-    "name": "The Post Brewing Co",
+    "brewery_name": "The Post Brewing Co",
     "brewery_type": "brewpub",
     "street": "105 W Emma St",
     "city": "Lafayette",
@@ -4156,7 +4156,7 @@
   },
   {
     "id": 346,
-    "name": "The Sandlot Brewery At Coors Field",
+    "brewery_name": "The Sandlot Brewery At Coors Field",
     "brewery_type": "large",
     "street": "2145 Blake St",
     "city": "Denver",
@@ -4169,7 +4169,7 @@
   },
   {
     "id": 347,
-    "name": "Thirsty Monk Pub Brewery",
+    "brewery_name": "Thirsty Monk Pub Brewery",
     "brewery_type": "micro",
     "street": "1604 E 17th Ave",
     "city": "Denver",
@@ -4180,7 +4180,7 @@
   },
   {
     "id": 348,
-    "name": "Three Barrel Brewing Co",
+    "brewery_name": "Three Barrel Brewing Co",
     "brewery_type": "brewpub",
     "street": "475 Grand Ave",
     "city": "del Norte",
@@ -4193,7 +4193,7 @@
   },
   {
     "id": 349,
-    "name": "Three Four Beer Company",
+    "brewery_name": "Three Four Beer Company",
     "brewery_type": "brewpub",
     "street": "829 S Shields St",
     "city": "Fort Collins",
@@ -4206,7 +4206,7 @@
   },
   {
     "id": 350,
-    "name": "Tilted Barrel Brew Pub",
+    "brewery_name": "Tilted Barrel Brew Pub",
     "brewery_type": "contract",
     "street": "110 E 29th St",
     "city": "Loveland",
@@ -4219,7 +4219,7 @@
   },
   {
     "id": 351,
-    "name": "Tivoli Brewing Company",
+    "brewery_name": "Tivoli Brewing Company",
     "brewery_type": "micro",
     "street": "900 Auraria Pkwy Unit 240",
     "city": "Denver",
@@ -4229,7 +4229,7 @@
   },
   {
     "id": 352,
-    "name": "Tommyknocker Brewery & Pub",
+    "brewery_name": "Tommyknocker Brewery & Pub",
     "brewery_type": "micro",
     "street": "1401 Miner St",
     "city": "Idaho Springs",
@@ -4242,7 +4242,7 @@
   },
   {
     "id": 353,
-    "name": "Trinity Brewing",
+    "brewery_name": "Trinity Brewing",
     "brewery_type": "brewpub",
     "street": "1466 Garden of The Gods Rd Ste 184",
     "city": "Colorado Springs",
@@ -4253,7 +4253,7 @@
   },
   {
     "id": 354,
-    "name": "TRVE Brewing Co",
+    "brewery_name": "TRVE Brewing Co",
     "brewery_type": "micro",
     "street": "2600 W. 2nd Ave Unit 8",
     "city": "Denver",
@@ -4264,7 +4264,7 @@
   },
   {
     "id": 355,
-    "name": "TRVE Brewing Co. - The Acid Temple",
+    "brewery_name": "TRVE Brewing Co. - The Acid Temple",
     "brewery_type": "micro",
     "street": "2600 W. 2nd Ave Unit 8",
     "city": "Denver",
@@ -4274,7 +4274,7 @@
   },
   {
     "id": 356,
-    "name": "Tumbleweed Brewing and Wine Company",
+    "brewery_name": "Tumbleweed Brewing and Wine Company",
     "brewery_type": "brewpub",
     "street": "124 S Main St",
     "city": "Yuma",
@@ -4287,7 +4287,7 @@
   },
   {
     "id": 357,
-    "name": "Twisted Pine Brewing Co",
+    "brewery_name": "Twisted Pine Brewing Co",
     "brewery_type": "brewpub",
     "street": "3201 Walnut St Ste A",
     "city": "Boulder",
@@ -4298,7 +4298,7 @@
   },
   {
     "id": 358,
-    "name": "Two Rascals Brewing Co",
+    "brewery_name": "Two Rascals Brewing Co",
     "brewery_type": "micro",
     "street": "147 N 1st St",
     "city": "Montrose",
@@ -4311,7 +4311,7 @@
   },
   {
     "id": 359,
-    "name": "Two22 Brew",
+    "brewery_name": "Two22 Brew",
     "brewery_type": "micro",
     "street": "4550 S Reservoir Rd",
     "city": "Centennial",
@@ -4324,7 +4324,7 @@
   },
   {
     "id": 360,
-    "name": "Upslope Brewing Company - Flatiron Park",
+    "brewery_name": "Upslope Brewing Company - Flatiron Park",
     "brewery_type": "micro",
     "street": "1898 S Flatiron Ct Ste 110",
     "city": "Boulder",
@@ -4336,7 +4336,7 @@
   },
   {
     "id": 361,
-    "name": "Upslope Brewing Company - Lee Hill",
+    "brewery_name": "Upslope Brewing Company - Lee Hill",
     "brewery_type": "regional",
     "street": "1501 Lee Hill Rd Unit 20",
     "city": "Boulder",
@@ -4347,7 +4347,7 @@
   },
   {
     "id": 362,
-    "name": "Ursula Brewery",
+    "brewery_name": "Ursula Brewery",
     "brewery_type": "micro",
     "street": "2101 N Ursula St Unit 10",
     "city": "Aurora",
@@ -4358,7 +4358,7 @@
   },
   {
     "id": 363,
-    "name": "Ute Pass Brewing Co",
+    "brewery_name": "Ute Pass Brewing Co",
     "brewery_type": "brewpub",
     "street": "209 E Midland Ave",
     "city": "Woodland Park",
@@ -4371,7 +4371,7 @@
   },
   {
     "id": 364,
-    "name": "Uturn BBQ",
+    "brewery_name": "Uturn BBQ",
     "brewery_type": "brewpub",
     "street": "599 Crossing Dr",
     "city": "Lafayette",
@@ -4384,7 +4384,7 @@
   },
   {
     "id": 365,
-    "name": "Vail Brewing Company",
+    "brewery_name": "Vail Brewing Company",
     "brewery_type": "micro",
     "street": "41290 US Hwy 6",
     "city": "Vail",
@@ -4395,7 +4395,7 @@
   },
   {
     "id": 366,
-    "name": "Verboten Brewing",
+    "brewery_name": "Verboten Brewing",
     "brewery_type": "micro",
     "street": "127 E 5th St",
     "city": "Loveland",
@@ -4408,7 +4408,7 @@
   },
   {
     "id": 367,
-    "name": "Very Nice Brewing Co",
+    "brewery_name": "Very Nice Brewing Co",
     "brewery_type": "micro",
     "street": "20 Lakeview Drive Unit 112",
     "city": "Nederland",
@@ -4419,7 +4419,7 @@
   },
   {
     "id": 368,
-    "name": "Veteran Brothers Brewing Company",
+    "brewery_name": "Veteran Brothers Brewing Company",
     "brewery_type": "brewpub",
     "street": "21 N Parish Ave",
     "city": "Johnstown",
@@ -4432,7 +4432,7 @@
   },
   {
     "id": 369,
-    "name": "Vine Street Pub & Brewery",
+    "brewery_name": "Vine Street Pub & Brewery",
     "brewery_type": "brewpub",
     "street": "1700 Vine St",
     "city": "Denver",
@@ -4445,7 +4445,7 @@
   },
   {
     "id": 370,
-    "name": "Vision Quest Brewing Company",
+    "brewery_name": "Vision Quest Brewing Company",
     "brewery_type": "micro",
     "street": "2510 47th St Ste A2",
     "city": "Boulder",
@@ -4456,7 +4456,7 @@
   },
   {
     "id": 371,
-    "name": "Walter Brewing Company",
+    "brewery_name": "Walter Brewing Company",
     "brewery_type": "micro",
     "street": "126 Oneida St",
     "city": "Pueblo",
@@ -4469,7 +4469,7 @@
   },
   {
     "id": 372,
-    "name": "WeldWerks Brewing Co.",
+    "brewery_name": "WeldWerks Brewing Co.",
     "brewery_type": "micro",
     "street": "508 8th Ave",
     "city": "Greeley",
@@ -4482,7 +4482,7 @@
   },
   {
     "id": 373,
-    "name": "West Flanders Brewing Co",
+    "brewery_name": "West Flanders Brewing Co",
     "brewery_type": "brewpub",
     "street": "1125 Pearl St",
     "city": "Boulder",
@@ -4495,7 +4495,7 @@
   },
   {
     "id": 374,
-    "name": "Westbound & Down Brewing Company",
+    "brewery_name": "Westbound & Down Brewing Company",
     "brewery_type": "brewpub",
     "street": "1617 Miner St",
     "city": "Idaho Springs",
@@ -4508,7 +4508,7 @@
   },
   {
     "id": 375,
-    "name": "WestFax Brewing Co.",
+    "brewery_name": "WestFax Brewing Co.",
     "brewery_type": "micro",
     "street": "6733 W Colfax Ave",
     "city": "Lakewood",
@@ -4521,7 +4521,7 @@
   },
   {
     "id": 376,
-    "name": "Westminster Brewing Co",
+    "brewery_name": "Westminster Brewing Co",
     "brewery_type": "micro",
     "street": "7655 W 108th Ave Ste 600",
     "city": "Westminster",
@@ -4532,7 +4532,7 @@
   },
   {
     "id": 377,
-    "name": "Whistle Pig Brewing Company",
+    "brewery_name": "Whistle Pig Brewing Company",
     "brewery_type": "micro",
     "street": "1840 Dominion Way",
     "city": "Colorado Springs",
@@ -4545,7 +4545,7 @@
   },
   {
     "id": 378,
-    "name": "Wibby Brewing",
+    "brewery_name": "Wibby Brewing",
     "brewery_type": "micro",
     "street": "209 Emery St",
     "city": "Longmont",
@@ -4557,7 +4557,7 @@
   },
   {
     "id": 379,
-    "name": "Wild Woods Brewery",
+    "brewery_name": "Wild Woods Brewery",
     "brewery_type": "micro",
     "street": "5460 Conestoga Ct",
     "city": "Boulder",
@@ -4570,7 +4570,7 @@
   },
   {
     "id": 380,
-    "name": "WildEdge Brewing Collective",
+    "brewery_name": "WildEdge Brewing Collective",
     "brewery_type": "brewpub",
     "street": "111 N Market St",
     "city": "Cortez",
@@ -4583,7 +4583,7 @@
   },
   {
     "id": 381,
-    "name": "Wiley Roots Brewing Co",
+    "brewery_name": "Wiley Roots Brewing Co",
     "brewery_type": "micro",
     "street": "625 3rd St Unit D",
     "city": "Greeley",
@@ -4594,7 +4594,7 @@
   },
   {
     "id": 382,
-    "name": "Wit's End Brewing Co",
+    "brewery_name": "Wit's End Brewing Co",
     "brewery_type": "micro",
     "street": "1330 Zuni St Ste N",
     "city": "Denver",
@@ -4605,7 +4605,7 @@
   },
   {
     "id": 383,
-    "name": "Wonderland Brewing Co.",
+    "brewery_name": "Wonderland Brewing Co.",
     "brewery_type": "micro",
     "street": "5450 W 120th Ave",
     "city": "Broomfield",
@@ -4618,7 +4618,7 @@
   },
   {
     "id": 384,
-    "name": "Woods Boss Brewing Company",
+    "brewery_name": "Woods Boss Brewing Company",
     "brewery_type": "micro",
     "street": "2210 California St",
     "city": "Denver",
@@ -4631,7 +4631,7 @@
   },
   {
     "id": 385,
-    "name": "Wynkoop Brewing Co",
+    "brewery_name": "Wynkoop Brewing Co",
     "brewery_type": "brewpub",
     "street": "1634 18th St",
     "city": "Denver",
@@ -4644,7 +4644,7 @@
   },
   {
     "id": 386,
-    "name": "Yampa Valley Brewing Company",
+    "brewery_name": "Yampa Valley Brewing Company",
     "brewery_type": "micro",
     "street": "106 E Jefferson Ave Unit B",
     "city": "Hayden",
@@ -4655,7 +4655,7 @@
   },
   {
     "id": 387,
-    "name": "Zephyr Brewing Co",
+    "brewery_name": "Zephyr Brewing Co",
     "brewery_type": "micro",
     "street": "1609 E 58th Ave Ste G",
     "city": "Denver",
@@ -4666,7 +4666,7 @@
   },
   {
     "id": 388,
-    "name": "Zuni Street Brewing Company",
+    "brewery_name": "Zuni Street Brewing Company",
     "brewery_type": "micro",
     "street": "2355 W 29th Ave",
     "city": "Denver",
@@ -4679,7 +4679,7 @@
   },
   {
     "id": 389,
-    "name": "Zwei Brewing Co",
+    "brewery_name": "Zwei Brewing Co",
     "brewery_type": "micro",
     "street": "4612 S Mason St Ste 120",
     "city": "Fort Collins",

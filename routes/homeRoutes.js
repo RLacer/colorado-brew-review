@@ -10,7 +10,7 @@ router.get('/', async (req, res) => {
         include: [
           {
             model: User,
-            attributes: ['name'],
+            attributes: ['username'],
           },
         ],
       });
@@ -19,7 +19,7 @@ router.get('/', async (req, res) => {
       const reviews = reviewData.map((review) => review.get({ plain: true }));
   
       // Pass serialized data and session flag into template
-      res.render('homepage', { 
+      res.render('main', { 
         reviews, 
         logged_in: req.session.logged_in 
       });
