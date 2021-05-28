@@ -2,9 +2,9 @@ const sequelize = require('../config/connection');
 const { User, Brew, Review } = require('../models');
 
 const userData = require('./userData.json');
-const review = require('./review-seeds.json');
+const reviewData = require('./review-seeds.json');
 
-const brew = require('./brew-seeds.json');
+const brewData = require('./brew-seeds.json');
 
 const seedDatabase = async () => {
   await sequelize.sync({ force: true });
@@ -14,14 +14,14 @@ const seedDatabase = async () => {
     returning: true,
   });
 
-  for (const review of Review) {
+  for (const review of reviewData) {
     await Review.create({
       ...review,
    
     });
   };
 
-  for (const brew of Brew) {
+  for (const brew of brewData) {
     await Brew.create({
       ...brew,
    
