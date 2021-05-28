@@ -21,17 +21,17 @@
     This project is licensed under the MIT
  
  ## Description:
- * This app allows the user to view, add, update and delete business categories, products and tags
+ * This app allows the user to search for breweries by city (currently available for Colorado) and add a review
  
  ## Usage:
- * This app is used for business products & retail
+ * This app is used to find a brewery in cities in Colorado
  
  ## Test:
   * Currently there is no test available
  
  
  ## Installation:
- * Fork or Clone the repository, create the database and use npm start
+ * This app is currently available via link on Heroku
  
  ### Author:
   Rebecca Lacer 
@@ -47,7 +47,7 @@
 * Email: r.a.lacer@hotmail.com
 
 ### Link
-Walk Through Demo Video: https://youtu.be/dg2RPEX-zgc 
+
 
 ## Screenshot
 ![screenshot](assets/images/14hw.PNG)
