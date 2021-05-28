@@ -1,24 +1,19 @@
 <!-- Loop over each object in the projects array -->
 {{#each reviews as |review| }}
-<div class="row mb-4 brew">
+<div class="container row mb-4 brew">
   <div class="col-md-5">
     <h2>
-     
+
       <a href="/review/{{review.id}}">{{review.username}}</a>
     </h2>
     <p>
-      <span for="img" aria-label="smile">😉</span>
-      
-   
-    </p>
-    <p>Created by {{review.user}}
-       {{!-- on {{format_date review.date_created}}</p> --}}
-      <p>For {{review.brewery_name}} in {{review.city}}</p>
-  </div>
-  <div class="col-md-7">
-    <p>
       {{review.description}}
     </p>
+
+    <p class = "review" id = "review"> <span class = "review" id = "cheers" for="img" aria-label="cheers">🍻</span> {{review.brewery_name}} in {{review.city}}</p>
+    <p>Created by {{review.user}}
+
   </div>
+
 </div>
 {{/each}}

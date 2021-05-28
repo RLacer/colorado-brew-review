@@ -12,8 +12,8 @@ router.get('/', withAuth, (req, res) => {
     .then(dbReviewData => {
         const reviews = dbReviewData.map(review => post.get({ plain:true }))
 
-        res.render("all-reviews-admin", {
-         layout: "dashboard",
+        res.render("profile", {
+         layout: "main",
            reviews 
         })
     }) 
@@ -25,7 +25,7 @@ router.get('/', withAuth, (req, res) => {
 })
 
 router.get('/new', withAuth, (req, res) => {
-    res.render('new-post', { layout: 'dashboard'})
+    res.render('new-post', { layout: 'main'})
 })
 
 module.exports = router;
