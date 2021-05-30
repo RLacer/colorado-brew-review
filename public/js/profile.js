@@ -1,9 +1,9 @@
 const newFormHandler = async (event) => {
     event.preventDefault();
   
-    const brewery_name = document.querySelector('#brew-name').value.trim();
-   
-    const description = document.querySelector('#brew-desc').value.trim();
+    const brewery_name = document.querySelector('#brewery-name').value.trim();
+    const description = document.querySelector('#brewery-city').value.trim();
+    const description = document.querySelector('#brewery-desc').value.trim();
   
     if (brewery_name &&  description) {
       const response = await fetch(`/api/brew`, {

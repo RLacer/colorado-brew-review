@@ -12,9 +12,15 @@ router.get('/', withAuth, (req, res) => {
     .then(dbReviewData => {
         const reviews = dbReviewData.map(review => post.get({ plain:true }))
 
+        // res.render("profile", {
+        //     layout: "main",
+        //       reviews 
+        //    })
         res.render("profile", {
          layout: "main",
-           reviews 
+           reviews,
+           view: "profile",
+            
         })
     }) 
     .catch (err => {
