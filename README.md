@@ -21,10 +21,10 @@
     This project is licensed under the MIT
  
  ## Description:
- * This app allows the user to search for breweries by city (currently available for Colorado) and add a review
+ * This app allows the user to review a brewery
  
  ## Usage:
- * This app is used to find a brewery in cities in Colorado
+ * See reviews for local breweries
  
  ## Test:
   * Currently there is no test available
@@ -50,7 +50,7 @@
 
 
 ## Screenshot
-![screenshot](assets/images/14hw.PNG)
+![screenshot](images/projectpic.PNG)
 
 
 
