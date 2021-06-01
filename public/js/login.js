@@ -6,25 +6,30 @@ const loginFormHandler = async (event) => {
     const password = document.querySelector('#password-login').value.trim();
   
     if (email && password) {
+      console.log("hi there");
       // Send a POST request to the API endpoint
-      // const response = await fetch('/api/user/login', {
-        const response = await fetch('/profile', {
+    fetch('/api/user/login', {
+        // const response = await fetch('/profile', {
         method: 'POST',
         body: JSON.stringify({ email, password }),
         headers: { 'Content-Type': 'application/json' },
-      });
+      })
+      .then(function() {
+        document.location.replace('/profile');
+      })
+  .catch(err => console.log(err))
   
-      if (response.ok) {
-        // If successful, redirect the browser to the profile page
-        window.location = '/profile';
-      } else {
-        alert(response.statusText);
-      }
+      // if (response.ok) {
+      //   // If successful, redirect the browser to the profile page
+      //   document.location.replace('/profile');
+      // } else {
+      //   alert(response.statusText);
+      // }
     }
   };
   
   const signupFormHandler = async (event) => {
-    event.preventDefault();
+    // event.preventDefault();
   
     const username = document.querySelector('#name-signup').value.trim();
     const email = document.querySelector('#email-signup').value.trim();
@@ -48,7 +53,7 @@ const loginFormHandler = async (event) => {
   console.log("hello")
   document
     .querySelector('.login-form')
-    .addEventListener('submit', loginFormHandler);
+    .addEventListener('click', loginFormHandler);
   
   document
     .querySelector('#signup-btn')

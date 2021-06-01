@@ -3,12 +3,12 @@ const newFormHandler = async (event) => {
   
     const brewery_name = document.querySelector('#brewery-name').value.trim();
     const description = document.querySelector('#brewery-city').value.trim();
-    const description = document.querySelector('#brewery-desc').value.trim();
+    const description = document.querySelector('#review-desc').value.trim();
   
-    if (brewery_name &&  description) {
-      const response = await fetch(`/api/brew`, {
+    if (brewery_name &&  description && review_desc) {
+      const response = await fetch(`/api/review`, {
         method: 'POST',
-        body: JSON.stringify({ brewery_name, description }),
+        body: JSON.stringify({ brewery_name, city, description }),
         headers: {
           'Content-Type': 'application/json',
         },
@@ -33,7 +33,7 @@ const newFormHandler = async (event) => {
       if (response.ok) {
         document.location.replace('/profile');
       } else {
-        alert('Failed to delete project');
+        alert('Failed to delete review');
       }
     }
   };
