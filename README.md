@@ -25,7 +25,7 @@
  
  ## Usage:
  * See reviews for local breweries
- 
+
  
  ## Test:
   * Currently there is no test available
@@ -48,7 +48,9 @@
 * Email: r.a.lacer@hotmail.com
 
 ### Link
-
+ Link to Heroku https://evening-tundra-22889.herokuapp.com/
+ Link to Github https://github.com/RLacer/colorado-brew-review
+ 
 
 ## Screenshot
 ![screenshot](images/projectpic.PNG)
