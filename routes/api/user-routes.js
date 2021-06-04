@@ -12,11 +12,13 @@ router.post('/', (req, res) => {
                 req.session.user_id = dbUserData.id;
                 req.session.email = dbUserData.email;
                 req.session.username = dbUserData.username;
-                req.session.loggedIn = true;
+                req.session. logged_in = true;
 
                 res.json(dbUserData);
             })
+            
         })
+
         .catch(err => {
             console.log(err);
             res.status(500).json(err);
@@ -43,7 +45,7 @@ router.post('/login', (req, res) => {
             req.session.save(() => {
                 req.session.user_id = dbUserData.id;
                 req.session.email = dbUserData.email;
-                req.session.loggedIn = true;
+                req.session. logged_in = true;
 
                 res.json({
                     user: dbUserData,

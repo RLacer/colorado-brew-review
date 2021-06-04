@@ -1,9 +1,9 @@
 const router = require('express').Router();
 const { Review, User } = require('../models');
 const withAuth = require('../utils/auth');
-const { post } = require('./homeRoutes');
+// const { post } = require('./homeRoutes');
 
-router.get('/', withAuth, (req, res) => {
+router.get('./profile', withAuth, (req, res) => {
     Review.findAll({
         where: {
             user_id: req.session.user_id
@@ -12,16 +12,16 @@ router.get('/', withAuth, (req, res) => {
     .then(dbReviewData => {
         const reviews = dbReviewData.map(review => post.get({ plain:true }))
 
-        // res.render("profile", {
-        //     layout: "main",
-        //       reviews 
-        //    })
         res.render("profile", {
-         layout: "main",
-           reviews,
-           view: "profile",
+            layout: "main",
+              reviews 
+           })
+        // res.render("profile", {
+        //  layout: "main",
+        //    reviews,
+        //    view: "profile",
             
-        })
+        // })
     }) 
     .catch (err => {
         console.log(err)
